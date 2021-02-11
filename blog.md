@@ -4,12 +4,9 @@ title: Blog
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Sign up to my blog.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+<iframe src="https://taariq.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ### My story
 

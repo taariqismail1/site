@@ -16,9 +16,9 @@ author: Taariq Ismail
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ # Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
@@ -74,6 +74,8 @@ share-links-active:
   facebook: false
   linkedin: true
   vk: false
+
+paginate_path: "/blog/page:num/"
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer

@@ -10,5 +10,16 @@ I recently started a blog. I don't yet have a niche - I'm using it to explore my
 
 # Recent posts
 - <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
+- <a href="https://taariq.substack.com/p/constraints-corp-trad-2" target="_blank">4. The constraints of corporate tradition (I)</a>
+- <a href="https://taariq.substack.com/p/constraints-corp-trad-1" target="_blank">3. The constraints of corporate tradition (I)</a>
+- <a href="https://taariq.substack.com/p/2-thinking-on-paper" target="_blank">2. Thinking on paper</a>
+- <a href="https://taariq.substack.com/p/1-cv-of-failures" target="_blank">1. CV of Failures</a>
 
 

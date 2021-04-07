@@ -7,7 +7,7 @@ I recently started a blog on Substack. I don't yet have a niche - I'm using it t
 
 ### Sign up to my blog here:
 <div
-  style="text-align:center;width:100%;>
+  style="text-align:center;width:100%;">
 <iframe src="https://taariq.substack.com/embed" width="300" height="200" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
 
 </div>

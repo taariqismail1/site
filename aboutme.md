@@ -4,9 +4,9 @@ title: About me
 ---
 
 My name is Taariq Ismail. Introductions are hard - there's so much to cover:
-- I work in corporate strategy
+- I work in strategy
 - I'm now playing a decent amount of tennis
-- I love learning - mainly through reading and trying things out
+- I love learning and exploring
 
 ### My story
 I've spent the last chunks of my life:

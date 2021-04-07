@@ -12,6 +12,6 @@ My name is Taariq Ismail. Introductions are hard - there's so much to cover:
 ### My story
 
 I've spent the last chunks of my life:
-- Working in consulting at [Accenture](www.accenture.com) and [OC&C Strategy Consultants](www.occstrategy.com)
-- Studying Engineering at [St Edmund Hall, Oxford](www.seh.ox.ac.uk)
+- Working in consulting at [Accenture](https://www.accenture.com) and [OC&C Strategy Consultants](https://www.occstrategy.com)
+- Studying Engineering at [St Edmund Hall, Oxford](https://www.seh.ox.ac.uk)
 - Calling Harare, Zimbabwe home

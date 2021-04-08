@@ -14,7 +14,7 @@ author: Taariq Ismail
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
   Blog: "blog"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"

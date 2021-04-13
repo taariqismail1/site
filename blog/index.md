@@ -11,7 +11,3 @@ I recently started a blog on Substack. I don't yet have a niche - I'm using it t
 <iframe src="https://taariq.substack.com/embed" width="300" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
 
 </div>
-
-
-
-

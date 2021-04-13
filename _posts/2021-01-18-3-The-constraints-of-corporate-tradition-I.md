@@ -1,5 +1,5 @@
 ---
-# 3. The Constraints of Corporate Tradition (I)
+# 3. The Constraints of Corporate Tradition (1)
 ### Doing the Correct Thing, Not Just What the Past Dictates
 ---
 

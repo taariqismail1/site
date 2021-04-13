@@ -5,7 +5,7 @@ subtitle: Seeing the other side of the iceberg
 
 I've seen countless 'motivational' pictures that look a bit like this:
 
-<img src='https://taariqismail1.github.io/site/assets/img/posts/1.jpeg' width = 1000px;>
+<img src="https://taariqismail.com/assets/img/posts/1.jpeg" width = 1000px;>
 
 
 I think the really interesting question is *"what is that hard work?"* No doubt it's a lot of blood, sweat, and tears, but it's also likely to include a lot of failure.

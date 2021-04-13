@@ -18,12 +18,12 @@ Here's a quick way of developing ideas for a work or personal project. As an exa
 
 #### Step 1: Write the letters A - Z down a piece of paper
 
-![imagea-z]()
+<img src="{{ site.baseurl }}/assets/img/posts/5a.jpeg">
 
 #### Step 2: Pick a theme
 It shouldn’t be related to the problem you're trying to solve. For our product features project we'll take _‘museum objects’_ as a theme
 
-![Museum objects: drum, rug and vase]()
+<img src="{{ site.baseurl }}/assets/img/posts/5b.jpeg">
 
 #### Step 3: For each letter, write the name of an object you might find in a museum
 For example:

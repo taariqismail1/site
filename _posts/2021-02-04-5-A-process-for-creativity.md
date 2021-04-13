@@ -18,7 +18,7 @@ Here's a quick way of developing ideas for a work or personal project. As an exa
 
 #### Step 1: Write the letters A - Z down a piece of paper
 
-![a-z]({{ site.baseurl }}/assets/img/posts/5a.jpeg | height=150)
+![a-z]({{ site.baseurl }}/assets/img/posts/5a.jpeg)
 
 #### Step 2: Pick a theme
 It shouldn’t be related to the problem you're trying to solve. For our product features project we'll take _‘museum objects’_ as a theme

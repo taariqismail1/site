@@ -1,6 +1,6 @@
 ---
-# 4. The Constraints of Corporate Tradition (II)
-### Doing the Correct Thing, Not Just What the Past Dictates
+title: 4. The Constraints of Corporate Tradition (2)
+subtitle: Doing the Correct Thing, Not Just What the Past Dictates
 ---
 
 This is the second and final post summarising the main ideas from the book _The Constraints of Corporate Tradition; Doing the Correct Thing, Not Just What the Past Dictates_ by Alan Kantrow.

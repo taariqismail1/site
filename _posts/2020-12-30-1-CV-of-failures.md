@@ -5,7 +5,7 @@ subtitle: Seeing the other side of the iceberg
 
 I've seen countless 'motivational' pictures that look a bit like this:
 
-![Image of iceberg](https://github.com/taariqismail1/site/tree/master/assets/img/posts/1.jpeg)
+![Image of iceberg](/assets/img/posts/1.jpeg)
 
 I think the really interesting question is *"what is that hard work?"* No doubt it's a lot of blood, sweat, and tears, but it's also likely to include a lot of failure.
 
@@ -15,7 +15,7 @@ I came across a 'CV of Failures' a few years ago and I thought it was an interes
 
 It seems CVs of Failures are more common in academia than in other fields, but I think they should be more widespread across the board. There's merit in focusing on the character-building events that others have faced in their journeys. A normal CV would help to a certain degree by showing the alternative paths and detours en route to the final destination. However, __normal CVs are written in a way that ignore failure;__ and in any case, they are mostly airbrushed versions of reality. This tweet comes to mind:
 
-<blockquote class="twitter-tweet" style="text-align: center;"><p lang="en" dir="ltr">Single-handedly managed the successful upgrade and deployment of new environmental illumination system with zero cost overruns and zero safety incidents. <a href="https://t.co/wn7JC5lNlZ">https://t.co/wn7JC5lNlZ</a></p>&mdash; M (@MuyiwaSaka) <a href="https://twitter.com/MuyiwaSaka/status/1169609707113369600?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" style="margin: auto;"><p lang="en" dir="ltr">Single-handedly managed the successful upgrade and deployment of new environmental illumination system with zero cost overruns and zero safety incidents. <a href="https://t.co/wn7JC5lNlZ">https://t.co/wn7JC5lNlZ</a></p>&mdash; M (@MuyiwaSaka) <a href="https://twitter.com/MuyiwaSaka/status/1169609707113369600?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 As well as looking at others' CVs of Failures to understand their journey, it's a useful exercise to build our own - not so that we can feel sorry for ourselves, but to ensure we are actually pushing the boundary. __A very short CV of Failures is a sign of lack or ambition, or worse, feigned ambition.__ Yudkowsky’s [post](https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try) talks to the latter point: we may not record our own failures as failures, because _'we weren't trying anyway.'_ An easy trap to fall into, but a dangerous one.
 

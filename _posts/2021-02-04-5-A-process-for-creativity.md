@@ -4,7 +4,7 @@ subtitle: How to Generate Your Next 26 Ideas
 ---
 
 ### The Need for Creativity
-Life is problem solving. Some problems have known solutions, but others don’t. In the last couple of posts ([#3](https://taariqismail.com/2021-01-18-3-The-constraints-of-corporate-tradition-I), [#4](https://taariqismail.com/2021-01-28-4-The-constraints-of-corporate-tradition-II) we saw how __tradition shapes our thinking__ and encourages us to take the default path - __to apply old solutions to new problems.__
+Life is problem solving. Some problems have known solutions, but others don’t. In the last couple of posts ([#3](https://taariqismail.com/2021-01-18-3-The-constraints-of-corporate-tradition-I), [#4](https://taariqismail.com/2021-01-28-4-The-constraints-of-corporate-tradition-II)) we saw how __tradition shapes our thinking__ and encourages us to take the default path - __to apply old solutions to new problems.__
 
 Coming up with new solutions requires creative thinking, but it’s actually quite hard to _intentionally_ think creatively.
 
@@ -18,7 +18,7 @@ Here's a quick way of developing ideas for a work or personal project. As an exa
 
 #### Step 1: Write the letters A - Z down a piece of paper
 
-<img src="{{ site.baseurl }}/assets/img/posts/5a.jpeg" height="200px";>
+<img src="{{ site.baseurl }}/assets/img/posts/5a.jpeg" height="200";>
 
 #### Step 2: Pick a theme
 It shouldn’t be related to the problem you're trying to solve. For our product features project we'll take _‘museum objects’_ as a theme

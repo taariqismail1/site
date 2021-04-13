@@ -5,7 +5,7 @@ subtitle: Seeing the other side of the iceberg
 
 I've seen countless 'motivational' pictures that look a bit like this:
 
-![Image of iceberg](https://github.com/taariqismail1/site/blob/c0285c4dda71418a48a02befe2aa55a40309c1d3/assets/img/posts/1.jpeg)
+![Image of iceberg](https://github.com/taariqismail1/site/assets/img/posts/1.jpeg)
 
 I think the really interesting question is *"what is that hard work?"* No doubt it's a lot of blood, sweat, and tears, but it's also likely to include a lot of failure.
 

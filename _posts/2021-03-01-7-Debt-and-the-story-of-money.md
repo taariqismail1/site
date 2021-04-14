@@ -28,7 +28,7 @@ Credit precedes cash. Debts (including interest rates) were documented more than
 
 __The first coins were found at the fringes of military expeditions.__ Expanding empires needed a way to feed their soldiers, but carrying provisions with them was inefficient. A better way was to pay soldiers in coins so they can buy food from local populations.
 
-![Achaemenid Persian Empire c.500 BCE]()
+![Achaemenid Persian Empire c.500 BCE]({{ site.baseurl }}/assets/img/posts/7.PNG)
 
 How do you force the local population to accept these coins? __Emperors indebted their subjects by imposing taxes__, which had to be paid in coins minted by the empire. That way, emperors created demand for soldiers’ coins and simultaneously allowed their armies to be clothed and fed.
 

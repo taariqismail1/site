@@ -45,7 +45,7 @@ An aside: a bank's business model is to lend out money (through loans, mortgages
 ```
 
 2. __Competitive forces:__ banks operate in a competitive environment so have to lend the money they create at competitive rates.
-To illustrate the example of competitive forces, let’s assume Bank A and Bank B are the only commercial banks in the economy. Bank A can lower rates to attract more customers to take out loans. However, if customers are taking loans from Bank A and using them to settle debts with Bank B, Bank A will have to use it's reserves to pay Bank B (therefore Bank A will deplete its reserves and potentially expose itself to risk[^1]).
+To illustrate the example of competitive forces, let’s assume Bank A and Bank B are the only commercial banks in the economy. Bank A can lower rates to attract more customers to take out loans. However, if customers are taking loans from Bank A and using them to settle debts with Bank B, Bank A will have to use it's reserves to pay Bank B (therefore Bank A will deplete its reserves and potentially expose itself to risk<sup>1</sup>).
 To avoid the customers taking money to other banks, Bank A can increase the rate of interest it pays on deposits to attract more customers to save with them. Therefore to be competitive it would have to lower the interest rate on new loans, and increase the interest rate on deposits. At some point this convergence will become unprofitable given there’s a cost to serve each customer.
 
 3. __Base interest rates:__ the ultimate lever on money creation is the central bank’s base rate. It influences the amount household and companies __want__ to borrow.
@@ -60,5 +60,5 @@ The above is a simplified explanation of how money is created in _normal times_.
 
 ----
 
-[^1] In the UK banks don’t have to hold a minimum amount of reserves at the central bank. They just need to make sure they hold enough to clear their debts with other banks, or they’ll face very high rates on short term loans.
+<sup>1</sup> In the UK banks don’t have to hold a minimum amount of reserves at the central bank. They just need to make sure they hold enough to clear their debts with other banks, or they’ll face very high rates on short term loans.
 

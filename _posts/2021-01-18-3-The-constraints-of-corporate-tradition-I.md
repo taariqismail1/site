@@ -5,7 +5,7 @@ subtitle: Doing the Correct Thing, Not Just What the Past Dictates
 
 _I've borrowed both the title and subtitle of this post from a book by Alan Kantrow. The book outlines how tradition hinders organisational thinking and offers solutions to avoid the bias of tradition. Its case studies are slightly outdated, but the lessons are timeless. I'm going to summarise some of the key ideas I took from the book over two blog posts._
 
-![constraint of corporate tradition]()
+![constraint of corporate tradition]({{ site.baseurl }}/assets/img/posts/3a.png)
 
 ### Imperfect Maps
 In the corporate world we’re used to rules of thumb, working assumptions, or definitions that 'just exist'. Examples are:
@@ -38,7 +38,7 @@ __Working against tradition is difficult because it involves harder work and unc
 
 I think SpaceX offers a very powerful example of questioning tradition. The industry standard in the U.S. was to to assemble rockets vertically (in the position they take off). Instead, SpaceX build their rockets horizontally. This means their costs are about 30 times cheaper per sq ft because they don't need very tall buildings or complex lifting equipment.
 
-![SpaceX Falcon 9 Assembly]()
+![SpaceX Falcon 9 Assembly]({{ site.baseurl }}/assets/img/posts/3b.jfif)
 
 I've used the word ‘manager’ in this last section, but it applies to everyone who's part of an organisation. Equally, I've used the word ‘organisation’, rather than business, as the lessons extend far beyond the corporate world. __We all need to understand if our thinking is constrained by tradition.__
 

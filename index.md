@@ -5,7 +5,7 @@ subtitle: Welcome to my online home
 ---
 
 # Welcome
-I've decided to create a website. Austin Kleon's book *Show Your Work* pushed me over the edge.
+I've decided to create a website. Austin Kleon's book [*Show Your Work*](https://austinkleon.com/show-your-work) pushed me over the edge.
 
 # About me
 I'm curious about many things - languages, economics, analytics and technology are just a few. I work in strategy consulting and have a strong technical background through an engineering degree and work experience in data science.  

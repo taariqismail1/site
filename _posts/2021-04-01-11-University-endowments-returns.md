@@ -3,9 +3,9 @@ title: 11. University endowments returns
 subtitle: Why are they so different across universities?
 ---
 
-University endowments are a major income source for many of the larger universities, and a considerable proportion of the capital they own. It's very clear there are differences in the sizes of these funds (Harvard: $40bn vs ~500 universities of <$100m), but __there are also very significant differences in the returns[^1] the funds generate:__
+University endowments are a major income source for many of the larger universities, and a considerable proportion of the capital they own. It's very clear there are differences in the sizes of these funds (Harvard: $40bn vs ~500 universities of <$100m), but __there are also very significant differences in the returns<sup>1</sup> the funds generate:__
 
-![US universities real returns, 1980 - 2010. Source: NACUBO via Piketty]()
+![US universities real returns, 1980 - 2010. Source: NACUBO via Piketty]({{ site.baseurl }}/assets/img/posts/11.PNG)
 
 I didn't realise the gap in rates of return was was so big , and __wondered why there’s such a difference.__
 
@@ -17,7 +17,7 @@ The record of endowments for educational purposes traces to Marcus Aurelius, who
 Endowments have taken a shape of their own with the modern university, especially in the USA.
 
 ### Where do they get the money from?
-Although the initial investment comes from alumni gifts, the larger endowments grow thanks to the return on investment. For the most prestigious universities, only __10% - 20%[^2] of the yearly increase in fund size comes from alumni gifts.__ The rest of the accumulation is purely return on capital.
+Although the initial investment comes from alumni gifts, the larger endowments grow thanks to the return on investment. For the most prestigious universities, only __10% - 20%<sup>2</sup> of the yearly increase in fund size comes from alumni gifts.__ The rest of the accumulation is purely return on capital.
 
 ### Size determines everything
 Answering the initial question - why are there differences in returns for universities?
@@ -35,7 +35,7 @@ Piketty talks about the divergence in capital ownership that we’re likely to s
 
 ----
 
-[^1] Average real returns (after deduction of inflation, admin and financial fees
+<sup>1</sup> Average real returns (after deduction of inflation, admin and financial fees
 
-[^2] Capital in the Twenty-First Century, Piketty
+<sup>2</sup> Capital in the Twenty-First Century, Piketty
 

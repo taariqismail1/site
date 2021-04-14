@@ -12,7 +12,7 @@ In the last post I outlined that the solution to breaking the mould of tradition
 
 This is slightly harder than we think - we can't simply lay out the history of a particular endeavour without knowing what exactly we're looking for. Instead, we have to look for the subtle signs that suggest things don't work anymore. We may not know exactly why they don't work, but we need to look for the __“_remnants of the past that don't make sense in present terms - the useless, the odd, the peculiar, the incongruous - are signs of history._”__
 
-![Assumption vs Reality]()
+![Assumption vs Reality]({{ site.baseurl }}/assets/img/posts/4.PNG)
 
 Once we understand where old assumptions don’t fit reality, we can begin to dig deeper and understand their original context.
 

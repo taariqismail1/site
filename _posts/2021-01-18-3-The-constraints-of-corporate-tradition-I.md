@@ -5,7 +5,7 @@ subtitle: Doing the Correct Thing, Not Just What the Past Dictates
 
 _I've borrowed both the title and subtitle of this post from a book by Alan Kantrow. The book outlines how tradition hinders organisational thinking and offers solutions to avoid the bias of tradition. Its case studies are slightly outdated, but the lessons are timeless. I'm going to summarise some of the key ideas I took from the book over two blog posts._
 
-![constraint of corporate tradition]({{ site.baseurl }}/assets/img/posts/3a.png)
+![constraint of corporate tradition]({{ site.baseurl }}/assets/img/posts/3a.PNG)
 
 ### Imperfect Maps
 In the corporate world we’re used to rules of thumb, working assumptions, or definitions that 'just exist'. Examples are:

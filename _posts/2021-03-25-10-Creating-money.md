@@ -18,7 +18,7 @@ Money is circulating debt - it's a string of IOUs. To understand how money is cr
 
 This chart shows the proportion of each of these types of money in circulation. __Bank deposits make up 97% of the total money in circulation.__
 
-![UK money in circulation, 2013. Source: [Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf?la=en&hash=E43CDFDBB5A23D672F4D09B13DF135E6715EEDAC)]()
+![UK money in circulation, 2013. Source: Bank of England]({{ site.baseurl }}/assets/img/posts/10.PNG))
 
 -----
 

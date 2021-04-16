@@ -40,7 +40,7 @@ He acknowledges he’s been using the word ‘country’ loosely, and that there
 
 I would have wanted the author to go into __more detail on the ‘why’__ – he gives reasons such as wanting a fresh start and not having to worry about the bureaucracy. They make sense when you read them, but there’s no depth. 
 
-I’d be interested in hearing about the __vision for such a country__ and how it would differ from existing nation states. What identity would citizens share? Most attempts to form a country are backed with strong identity struggles that have a long history.
+I’d be interested in hearing about the __vision for such a country__ and how it would differ from existing nation states. What identity would citizens share? Most attempts to form a country are backed by strong identity struggles that have a long history.
 
 ### Intentional communities
 

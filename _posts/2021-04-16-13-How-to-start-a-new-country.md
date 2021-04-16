@@ -3,7 +3,7 @@ title: 13. How to start a new country
 subtitle: A review of a 1729.com article
 ---
 
-_This post is a review of the article [How to Start a New Country](https://1729.com/how-to-start-a-new-country) by [Balaji Srinivasan](https://www.balajis.com) and 1729.com. Check out their website if you haven’t already heard about their project, and then write your own review of Balaji’s article for a chance to win $100 worth of BTC._
+_This post is a review of the article [How to Start a New Country](https://1729.com/how-to-start-a-new-country) by [Balaji Srinivasan](https://www.balajis.com) and [1729.com](https://www.1729.com). Check out their website if you haven’t already heard about their project, and then write your own review of Balaji’s article for a chance to win $100 worth of BTC._
 
 ## Overview
 How to Start a New Country is a thought-provoking article suggesting how we might __start with a clean slate__. Most ideas are old and heavily filtered through tradition; to make significant change we need to start afresh without the constrains of the past. It’s easy to start a new company or build a house on vacant land, __why shouldn’t it be easy to start a new country?__

@@ -15,9 +15,9 @@ The __first 3 are conventional__ ways that have been used in the past:
 2. Revolution
 3. War
 
-These are dismissed given difficulty, pace, and potential bloodshed. 
+    These are dismissed given difficulty, pace, and potential bloodshed. 
 
-__The next 3 options are less conventional:__
+    __The next 3 options are less conventional:__
 4. Micronations – declaring a small patch of land a sovereign country (e.g. oil platforms, backyards)
 5. Seasteading – imagine a cruise ship as a floating country
 6. Space – moving to other planets

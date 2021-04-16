@@ -65,3 +65,9 @@ Here are some additional points to think about;
 I’m looking forward to Balaji’s next post on the ‘how’ such a community will be set up. 
 
 I hope you enjoyed this post subscribe to receive the next one in your inbox. 
+
+<div
+  style="text-align:center;width:100%;">
+<iframe src="https://taariq.substack.com/embed" width="350" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
+
+</div>

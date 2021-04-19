@@ -19,7 +19,7 @@ I recently started a blog on Substack. I don't yet have a niche - I'm using it t
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="assets/js/search-script.js" type="text/javascript"></script>
+<script src="{{ site.baseurl }}/assets/js/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>

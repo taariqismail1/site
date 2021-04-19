@@ -12,7 +12,7 @@ I recently started a blog on Substack. I don't yet have a niche - I'm using it t
 
 </div>
 
-<!-- Html Elements for Search -->
+<!-- Html Elements for Search
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
 <ul id="results-container"></ul>
@@ -21,7 +21,7 @@ I recently started a blog on Substack. I don't yet have a niche - I'm using it t
 <!-- Script pointing to search-script.js -->
 <script src="{{ site.baseurl }}/assets/js/search-script.js" type="text/javascript"></script>
 
-<!-- Configuration -->
+<!-- Configuration 
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
@@ -29,3 +29,4 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
 </script>
+-->

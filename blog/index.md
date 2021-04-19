@@ -11,3 +11,21 @@ I recently started a blog on Substack. I don't yet have a niche - I'm using it t
 <iframe src="https://taariq.substack.com/embed" width="350" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
 
 </div>
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="assets/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script>

@@ -1,6 +1,7 @@
 ---
 title: 13. How to start a new country
 subtitle: A review of a 1729.com article
+tags: [crypto, politics, technology]
 ---
 
 _This post is a review of the article [How to Start a New Country](https://1729.com/how-to-start-a-new-country) by [Balaji Srinivasan](https://www.balajis.com) and [1729.com](https://www.1729.com). Check out their website if you haven’t already heard about their project, and then write your own review of Balaji’s article for a chance to win $100 worth of BTC._

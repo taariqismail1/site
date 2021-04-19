@@ -1,6 +1,7 @@
 ---
 title: 13. How to start a new country
 subtitle: A review of a 1729.com article
+description: A review of Balaji Srinivasan's paper on how to start a new country. The network state will be based on crypto and remote work, but will ultimately have to move to physical territory to survive
 tags: [crypto, politics, technology]
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: Setting up a personal website for free
+title: 14. Setting up a personal website for free
 subtitle: Using GitHub Pages to host a Jekyll Site
 ---
 
 ## Do you need a personal website?
-Having a personal website might sound like overkill. I thought so too. A friend gave me a copy of Austin Kleon's book, Show Your Work! - it pushed me over the edge in terms of having a personal site. He says:
+Having a personal website might sound like overkill. I thought so too. A friend gave me a copy of Austin Kleon's book, [Show Your Work!](https://austinkleon.com/show-your-work){target="_blank"} - it pushed me over the edge in terms of having a personal site. He says:
 
 > _If you get one thing out of this book make it this: Go register a domain name… then buy some web hosting and build a site_
 
-A personal site is where people can find you, and where you can share your ideas with the world. Getting comments from other people improves your ideas significantly. Whilst you’re here, check out my site.
+A personal site is where people can find you, and where you can share your ideas with the world. Getting comments from other people improves your ideas significantly.
 
 ## How to do it?
 In addition to some content, you need a few things to get your site up and running:
@@ -17,11 +17,11 @@ In addition to some content, you need a few things to get your site up and runni
 2. A website and somewhere for the it to live (hosting)
 
 ### Domain
-You can buy a domain name for around £10 a year - unfortunately there’s no way of avoiding this, unless you’re happy with something like taariq.squarespace.com. Have a look on GoDaddy or search 'domain name' on Google.
+You can buy a domain name for around £10 a year - unfortunately there’s no way of avoiding this, unless you’re happy with something like taariq.squarespace.com. Have a look on [GoDaddy](https://uk.godaddy.com){target="_blank"} or search 'domain name' on Google.
 
 ### Website and hosting
 Here are some broad options (not exhaustive):
-1. __Website builders__ - Many sites (e.g. GoDaddy, SquareSpace) that sell domains will offer a website builder too. It's low hassle - all you have to do is sign in and start building your website using pre-defined templates. Cost: £10 - £15 per month
+1. __Website builders__ - Many sites (e.g. [GoDaddy](https://uk.godaddy.com){target="_blank"}, SquareSpace) that sell domains will offer a website builder too. It's low hassle - all you have to do is sign in and start building your website using pre-defined templates. Cost: £10 - £15 per month
 2. __Custom website builders__ - e.g. Webflow, Ghost. These are similar to the plain website builders, but offer a lot more customisation and flexibility, such as monetising newsletter subscribers. You can pick a theme and then customise it. Cost: £8 - £10 per month
 3. __Static site hosted on GitHub Pages__. GitHub is a code hosting platform for version control and collaboration. It lets you work with other people on projects. GitHub Pages allows you to host a website for free. Cost - £0 per month
 

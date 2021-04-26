@@ -6,7 +6,7 @@ subtitle: Using GitHub Pages to host a Jekyll Site
 ## Do you need a personal website?
 Having a personal website might sound like overkill. I thought so too. A friend gave me a copy of Austin Kleon's book, Show Your Work! - it pushed me over the edge in terms of having a personal site. He says:
 
-> If you get one thing out of this book make it this: Go register a domain name… then buy some web hosting and build a site
+> _If you get one thing out of this book make it this: Go register a domain name… then buy some web hosting and build a site_
 
 A personal site is where people can find you, and where you can share your ideas with the world. Getting comments from other people improves your ideas significantly. Whilst you’re here, check out my site.
 

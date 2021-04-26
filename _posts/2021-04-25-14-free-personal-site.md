@@ -4,7 +4,7 @@ subtitle: Using GitHub Pages to host a Jekyll Site
 ---
 
 ## Do you need a personal website?
-Having a personal website might sound like overkill. I thought so too. A friend gave me a copy of Austin Kleon's book, [Show Your Work!](https://austinkleon.com/show-your-work){target="_blank"} - it pushed me over the edge in terms of having a personal site. He says:
+Having a personal website might sound like overkill. I thought so too. A friend gave me a copy of Austin Kleon's book, [Show Your Work!](https://austinkleon.com/show-your-work){target= "\_blank"} - it pushed me over the edge in terms of having a personal site. He says:
 
 > _If you get one thing out of this book make it this: Go register a domain name… then buy some web hosting and build a site_
 

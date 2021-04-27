@@ -46,7 +46,7 @@ There are clearly lots of positives, so what are the downsides? There's a size l
 Here are some of the issues I came across:
 
 1. __It takes a little while to figure things out__. The BeautifullJekyll theme I'm using says you can be up and running in 5 minutes. That's probably true if you've done it before, but it took me slightly longer.
-2. __You'll have to write all your posts in markdown and formatting non-text elements can be fiddly__. For example, to resize an image you have to specify its height, rather than dragging to resize (as you do in Substack). Writing in Markdown is quite easy once you understand the sytnax. This takes about 5 minutes to learn (this time it is 5 minutes). .
+2. __You'll have to write all your posts in markdown and formatting non-text elements can be fiddly__. For example, to resize an image you have to specify its height, rather than dragging to resize (as you do in Substack). Writing in Markdown is quite easy once you understand the sytnax. This takes about 5 minutes to learn (this time it is 5 minutes).
 3. The __other disadvantages__ I could find on the internet include it being a static website, you'll have to make some effort for SEO and the lack of technical support. My counters to these are:
 - You'll probably have a static website anyway
 - Once you've installed a plugin, you're good to go. Just add your descriptions at the top of each page

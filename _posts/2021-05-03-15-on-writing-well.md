@@ -1,33 +1,25 @@
 ---
-title: On Writing Well
+title: 15. On Writing Well
 subtitle: Lessons and Reflections from The Classic Guide to Writing Nonfiction
 ---
 I wanted to learn more about writing so I picked up a copy of the highly-recommended On Writing Well by William Zinsser. I thought I'd be set after reading the book, but soon came across his opening sentence of Part Two:
 
-You learn to write by writing. It's a truism, but what makes it a truism is that it's true. The only way to learn to write is to force yourself to produce a certain number of words on a regular basis.
+>__You learn to write by writing. It's a truism, but what makes it a truism is that it's true. The only way to learn to write is to force yourself to produce a certain number of words on a regular basis.__
 
 So much for a formal education. Having said that, the book is definitely worth reading - it’s easy to read, has really good lessons, and lots of examples.
 
-Lessons
+## Lessons
 Here are nine takeaways to become a better writer:
 
-Writing is learned by imitation. If you want to get better at writing, read more and pay attention to the author's style
-
-"Unity is the anchor of good writing." If you're writing in the first person, stick to it. If you're writing in the past tense, stick to it.
-
-A good article leaves the reader with one provocative thought.
-
-Use active verbs unless there isn't another choice. For example, "Joe saw him" is much stronger than "he was seen by Joe", and easier for readers to process.
-
-Use short sentences. Break up longer sentences into two or three separate ones to ease understanding. Use short paragraphs to make your writing visually appealing.
-
-Most adverbs are unnecessary since the verb carries the entire meaning. Many adverbs are now common and redundant - for example, "clenching teeth tightly". Tightly is redundant - there is no other way to clench teeth.
-
-Remove qualifiers since "good writing is lean and confident". Examples of qualifiers: a bit, sort of, quite, rather, very. Instead of saying you're a bit confused, just say you're confused. It's more confident.
-
-Add people to liven up your writing, instead of writing in the abstract. This could be as simple as saying 'the author said.'
-
-If you're having trouble with a sentence, remove it
+1. Writing is learned by imitation. If you want to get better at writing, read more and pay attention to the author's style
+2. "Unity is the anchor of good writing." If you're writing in the first person, stick to it. If you're writing in the past tense, stick to it.
+3. A good article leaves the reader with one provocative thought.
+4. Use active verbs unless there isn't another choice. For example, "Joe saw him" is much stronger than "he was seen by Joe", and easier for readers to process.
+5. Use short sentences. Break up longer sentences into two or three separate ones to ease understanding. Use short paragraphs to make your writing visually appealing.
+6. Most adverbs are unnecessary since the verb carries the entire meaning. Many adverbs are now common and redundant - for example, "clenching teeth tightly". Tightly is redundant - there is no other way to clench teeth.
+7. Remove qualifiers since "good writing is lean and confident". Examples of qualifiers: a bit, sort of, quite, rather, very. Instead of saying you're a bit confused, just say you're confused. It's more confident.
+8. Add people to liven up your writing, instead of writing in the abstract. This could be as simple as saying 'the author said.'
+9. If you're having trouble with a sentence, remove it
 
 Reflections
 The book is filled with examples and is really interesting to read as you get to see small snippets from some of the best writing Zinsser's come across. He also brings in a few examples of poor writing and suggests improvements.

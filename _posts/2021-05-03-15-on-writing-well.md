@@ -33,15 +33,15 @@ The chapter focuses on how to organise a long article as well as pay attention t
 ## Overview
 Here's a quick summary of the four parts of the book.
 
-### Part One (Principles)
+#### Part One (Principles)
 
 This is a general introduction to writing. Zinsser covers topics such as: what writing is, paying attention to the audience, keeping writing simple, and removing clutter. He calls clutter the ‘disease of American writing.’
 
-### Part Two (Methods)
+#### Part Two (Methods)
 
 This deals with grammar and style points. I've listed many of these above in ‘Lessons’.
 
-### Part Three (Forms)
+#### Part Three (Forms)
 
 This part focuses on different types of nonfiction writing: interviews, travel, memoirs, science and technology, sports, arts, humour, and business.
 
@@ -49,6 +49,6 @@ These were fun to read, and Zinsser goes through important aspects to highlight 
 
 The chapter on travel writing was an interesting one; his tip was to focus on the details that make a place distinctive. He insists on not stating the obvious. For example, don’t mention the sand on the beach was white, or the sky blue, or the temperature mild. Looking past the obvious will not only help your writing - it will also enrich your travel experience.
 
-### Part Four (Attitudes)
+#### Part Four (Attitudes)
 
 The fourth part is more exploratory and deals with some of the challenges you'll face as you become a better writer. One of my takeaways is to focus on the process, rather than obsessing with the final product. He questions whether to adapt the sound of your voice when writing about different topics - his answer is no: your 'voice' should be distinctive.

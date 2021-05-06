@@ -52,3 +52,10 @@ The chapter on travel writing was an interesting one; his tip was to focus on th
 #### Part Four (Attitudes)
 
 The fourth part is more exploratory and deals with some of the challenges you'll face as you become a better writer. One of my takeaways is to focus on the process, rather than obsessing with the final product. He questions whether to adapt the sound of your voice when writing about different topics - his answer is no: your 'voice' should be distinctive.
+
+### Sign up to my blog here
+<div
+  style="text-align:center;width:100%;">
+<iframe src="https://taariq.substack.com/embed" width="350" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
+
+</div>

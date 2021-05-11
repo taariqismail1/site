@@ -4,7 +4,7 @@ subtitle: How to Generate Your Next 26 Ideas
 ---
 
 ### The Need for Creativity
-Life is problem solving. Some problems have known solutions, but others don’t. In the last couple of posts ([#3](https://taariqismail.com/2021-01-18-3-The-constraints-of-corporate-tradition-I), [#4](https://taariqismail.com/2021-01-28-4-The-constraints-of-corporate-tradition-II)) we saw how __tradition shapes our thinking__ and encourages us to take the default path - __to apply old solutions to new problems.__
+Life is problem solving. Some problems have known solutions, but others don’t. In the last couple of posts ([#3](https://taariqismail.com/2021-01-18-The-constraints-of-corporate-tradition-I), [#4](https://taariqismail.com/2021-01-28-The-constraints-of-corporate-tradition-II)) we saw how __tradition shapes our thinking__ and encourages us to take the default path - __to apply old solutions to new problems.__
 
 Coming up with new solutions requires creative thinking, but it’s actually quite hard to _intentionally_ think creatively.
 

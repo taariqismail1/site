@@ -5,7 +5,7 @@ subtitle: Doing the Correct Thing, Not Just What the Past Dictates
 
 This is the second and final post summarising the main ideas from the book _The Constraints of Corporate Tradition; Doing the Correct Thing, Not Just What the Past Dictates_ by Alan Kantrow.
 
-If you missed it, [here's the first post.](https://taariqismail.com/2021-01-18-3-The-constraints-of-corporate-tradition-I) TL;DR - Novel insights harden into assumptions and categories. Before long we forget the assumptions are man-made and try apply them to new situations. For example, when Captain Cook and his men arrived in Australia and saw a kangaroo for the first time they thought it was a large mouse. Tradition shapes our thinking without us noticing.
+If you missed it, [here's the first post.](https://taariqismail.com/2021-01-18-The-constraints-of-corporate-tradition-I) TL;DR - Novel insights harden into assumptions and categories. Before long we forget the assumptions are man-made and try apply them to new situations. For example, when Captain Cook and his men arrived in Australia and saw a kangaroo for the first time they thought it was a large mouse. Tradition shapes our thinking without us noticing.
 
 ### Subtle Signs of Tradition
 In the last post I outlined that the solution to breaking the mould of tradition is to dig into history to __understand _why_ a certain assumption was held at a certain time.__ Once we know the context of an assumption’s origin, we can figure out whether it’s still applicable.

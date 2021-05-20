@@ -2,7 +2,6 @@
 title: 17. Intentional communities
 subtitle: An urban alternative to individualism
 description: An overview of intentional communities and how they can be used to re-orient urban life towards the community
-comments
 ---
 
 A few weeks ago I [compared](https://taariqismail.com/2021-04-16-How-to-start-a-new-country/) Balaji's [idea](https://1729.com/how-to-start-a-new-country/) of starting a new country (‘digital first, physical last’) to an intentional community. I touched on intentional communities in that post but wanted to explore them in a bit more depth.

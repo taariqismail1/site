@@ -43,4 +43,8 @@ It’s worth mentioning explicitly: )__these communities shouldn’t be gated or
 I’d be keen to hear your thoughts on intentional communities, especially if you have experience with them.
 
 ### Sign up to my blog here
+<div
+  style="text-align:center;width:100%;">
 <iframe src="https://taariq.substack.com/embed" width="350" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
+
+</div>

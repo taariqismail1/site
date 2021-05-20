@@ -19,11 +19,11 @@ You can live your life without interacting with a single person because it's sim
 
 With the breakdown of organic communities and the rise of loneliness, people have been turning to intentional communities.
 
-Co-living: an approximation
+## Co-living: an approximation
 Co-living (not the same as house-sharing) is a model that has become popular recently. Although it isn’t strictly an intentional community, there are some shared aspects.
 
+![Google Trends for ‘co-living’ (2014 - 2020)]({{ site.baseurl }}/assets/img/posts/17.PNG)
 
-Google Trends for ‘co-living’ (2014 - 2020)
 The idea: co-living spaces are usually commercial ventures offering short to medium lets for single people or couples. Whilst each person has their own room, they have access to common facilities and rooms to socialise, and can take part in group initiatives. Co-living spaces often have a central theme (e.g. the arts) and membership is offered to those who’ll benefit the community. The downside is that they’re a lot more expensive compared to private renting: you're essentially paying for a ready-made community.
 
 ## A model

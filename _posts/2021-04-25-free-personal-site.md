@@ -21,7 +21,7 @@ You can buy a domain name for around £10 a year - unfortunately there’s no wa
 
 ### Website and hosting
 Here are some broad options (not exhaustive):
-1. __Website builders__ - Many sites (e.g. [GoDaddy](https://uk.godaddy.com), [SquareSpace](https://squarespace.com) that sell domains will offer a website builder too. It's low hassle - all you have to do is sign in and start building your website using pre-defined templates. Cost: £10 - £15 per month
+1. __Website builders__ - Many sites (e.g. [GoDaddy](https://uk.godaddy.com), [SquareSpace](https://squarespace.com)) that sell domains will offer a website builder too. It's low hassle - all you have to do is sign in and start building your website using pre-defined templates. Cost: £10 - £15 per month
 2. __Custom website builders__ - e.g. [Webflow](https://webflow.com), [Ghost](https://ghost.org). These are similar to the plain website builders, but offer a lot more customisation and flexibility, such as monetising newsletter subscribers. You can pick a theme and then customise it. Cost: £8 - £10 per month
 3. __Static site hosted on [GitHub Pages](https://pages.github.com)__. [GitHub](https://github.com) is a code hosting platform for version control and collaboration. It lets you work with other people on projects. GitHub Pages allows you to host a website for free. Cost - £0 per month
 

@@ -33,7 +33,7 @@ __How do you set up an intentional community?__
 3. Set up a __shared space__ for people to interact - e.g. community hall or sports centre. These shared spaces are either rented or owned by a trust the community sets up.
 4. Establish a __governance framework__. A small membership fee will fund the maintenance of shared spaces and any community initiatives. Governance can be through a committee, similar to any non-profit.
 
-(Alternatively, join one of the many communities that have already been set up1.)
+(Alternatively, join one of the many communities that have already been set up<sup>1</sup>.)
 
 ### The role of shared spaces
 Intentional communities can help re-orient urban life __away from the individual and towards the community__. The key element is shared spaces. The Ottomans used a similar idea to regenerate parts of cities: they'd build a mosque with a large complex ([kulliye](https://en.wikipedia.org/wiki/K%C3%BClliye)) around it. Within the complex, there would be __public baths, a soup kitchen, a school, and a medical centre amongst other facilities__. A modern example might have a cafe, a library, a fitness centre, and co-working spaces.

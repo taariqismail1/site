@@ -48,3 +48,7 @@ I’d be keen to hear your thoughts on intentional communities, especially if yo
 <iframe src="https://taariq.substack.com/embed" width="350" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
 
 </div>
+
+-----
+
+<sup>1</sup> Or move to an area that has a welcoming ‘normal’ community

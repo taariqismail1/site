@@ -8,7 +8,7 @@ A few weeks ago I [compared](https://taariqismail.com/2021-04-16-How-to-start-a-
 
 Here's [one](https://core.ac.uk/download/pdf/143852055.pdf) definition of an intentional community.
 
-> Five or more people, drawn from more than one family, who have voluntarily come together...They seek to live beyond the bounds of mainstream society by adopting a consciously devised and usually well thought-through social and cultural alternative.
+> _Five or more people, drawn from more than one family, who have voluntarily come together...They seek to live beyond the bounds of mainstream society by adopting a consciously devised and usually well thought-through social and cultural alternative._
 
 Community members are generally __tied together by something greater__, for example, shared interests or religion. However, intentional communities sometimes come with preconceptions - for example, thinking of them as 'hippie communes' where members isolate themselves from the rest of society and share all their income. Whilst these exist, __I'd like to focus on *urban, less isolated* intentional communities.__
 

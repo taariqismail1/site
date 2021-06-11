@@ -27,7 +27,6 @@ Why are costs so high?
 
 ### Perception of safety
 - Radiation is natural and is everywhere. __Significant radiation releases from nuclear plants are very rare and do not all lead to major public health hazards__. However, the regulating agencies follow the Linear No Threshold (LNT) model, which assumes there is a linear relationship between radiation exposure and cancer risk. Devanney argues the model is too simplistic and doesn't follow observation or theory. __It’s damaging to the industry because low-level radiation is perceived as a very high risk.__ Devanney gives interesting anecdotes of overcompensation when it comes to low levels of radiation.
-
 - There is also a __perception that nuclear is really dangerous__. In reality, there are risks with all forms of energy production. __When you look at the stats, the number of deaths (both pollution and accidents) from nuclear energy are really low (see below)__. There have only been 3 major incidents with nuclear power. Chernobyl, the first major disaster, was due to really poor reactor design. This was more than 30 years ago and technology has improved significantly since.
 
 <img src="{{ site.baseurl }}/assets/img/posts/18b.jpeg">
@@ -36,9 +35,7 @@ Why are costs so high?
 Devanney suggests a complete overhaul of the industry. Regulation has picked up a lot of baggage along the way and is [constrained by tradition](https://taariqismail.com/2021-01-18-The-constraints-of-corporate-tradition-I/). However, he mentions a number of actionable things in the short term:
 
 - __Replace the LNT radiation model with a sigmoid one__. The sigmoid model has a low risk at low exposure, but once a threshold is reached, the risk increases significantly. This is closer to observation and theory.
-
 - __Drop ALARA__ - it’s extremely inefficient. Engineers cannot design to ALARA standards, and investors don’t want to be exposed to ALARA since it doesn’t allow for the minimisation of costs.
-
 - __Align incentives__ of regulators to the industry, introduce competition in the industry, and ensure thorough testing rather than complex theoretical modelling.
 
 ### Sign up to my blog here

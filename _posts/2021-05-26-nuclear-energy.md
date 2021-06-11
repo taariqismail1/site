@@ -8,7 +8,7 @@ The world needs more energy. Specifically, it needs more clean energy. Global el
 
 Nuclear power was once billed as the cheap, clean energy of the future. It’s been around since the ‘50s, but the technology hasn't fulfilled its original promise, and now makes up only 10% of the world's energy production.
 
-<img src="{{ site.baseurl }}/assets/img/posts/18a.png">
+<img src="{{ site.baseurl }}/assets/img/posts/18a.PNG">
 
 Renewables have a role to play in solving the world’s clean energy demand, but they aren’t dispatchable (supply can’t be adjusted to demand) and have mainly gained traction in countries where there are heavy subsidies.
 

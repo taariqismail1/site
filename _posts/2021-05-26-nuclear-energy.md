@@ -8,7 +8,7 @@ The world needs more energy. Specifically, it needs more clean energy. Global el
 
 Nuclear power was once billed as the cheap, clean energy of the future. It’s been around since the ‘50s, but the technology hasn't fulfilled its original promise, and now makes up only 10% of the world's energy production.
 
-<img src="{{ site.baseurl }}/assets/img/posts/18a.jpeg">
+<img src="{{ site.baseurl }}/assets/img/posts/18a.png">
 
 Renewables have a role to play in solving the world’s clean energy demand, but they aren’t dispatchable (supply can’t be adjusted to demand) and have mainly gained traction in countries where there are heavy subsidies.
 
@@ -29,7 +29,7 @@ Why are costs so high?
 - Radiation is natural and is everywhere. __Significant radiation releases from nuclear plants are very rare and do not all lead to major public health hazards__. However, the regulating agencies follow the Linear No Threshold (LNT) model, which assumes there is a linear relationship between radiation exposure and cancer risk. Devanney argues the model is too simplistic and doesn't follow observation or theory. __It’s damaging to the industry because low-level radiation is perceived as a very high risk.__ Devanney gives interesting anecdotes of overcompensation when it comes to low levels of radiation.
 - There is also a __perception that nuclear is really dangerous__. In reality, there are risks with all forms of energy production. __When you look at the stats, the number of deaths (both pollution and accidents) from nuclear energy are really low (see below)__. There have only been 3 major incidents with nuclear power. Chernobyl, the first major disaster, was due to really poor reactor design. This was more than 30 years ago and technology has improved significantly since.
 
-<img src="{{ site.baseurl }}/assets/img/posts/18b.jpeg">
+<img src="{{ site.baseurl }}/assets/img/posts/18b.png">
 
 ## What to do?
 Devanney suggests a complete overhaul of the industry. Regulation has picked up a lot of baggage along the way and is [constrained by tradition](https://taariqismail.com/2021-01-18-The-constraints-of-corporate-tradition-I/). However, he mentions a number of actionable things in the short term:

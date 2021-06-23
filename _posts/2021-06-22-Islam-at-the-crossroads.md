@@ -21,17 +21,17 @@ An often-repeated question is "What is the purpose of life?" According to the Is
 ## Important areas
 Having laid the foundations of the two systems (i.e. the modern West and Islam), Asad mentions a number of areas for the Muslim world to be mindful of as they choose a path forward.
 
-1. Education
+### 1. Education
 Education is important because it shapes the leaders of tomorrow. He encourages the Muslim world to adopt scientific and technical knowledge but to be thoughtful in its application. Technical knowledge is 'neither Eastern nor Western,’ so Muslims should take their own philosophy into account when using it. For example, a commercial project to extract resources from the earth should be mindful of Islam’s concept of stewardship. i.e. that human beings are responsible for the welfare of other human beings, animals, and the environment. In Asad’s words:
 
 >Every Muslim has to regard himself as personally responsible for all happenings around him, and to strive to the establishment of right and the abolition of wrong at every time and in every direction
 
-2. Imitation
+### 2. Imitation
 Asad wrote this book in 1934, soon after the collapse of the Ottoman Empire and the division of the Middle East. Muslims saw the material power and progress of the West and mistook their own weakness for the weakness of Islam. As Muslims built their newly formed states, he suggested reaching into Islam’s rich heritage instead of blindly imitating the West. This reminds me of what Ibn Khaldun, the great sociologist, wrote in the 14th century:
 
-The vanquished always want to imitate the victor in his distinctive characteristics, his dress, his occupation, and all his other conditions and customs. The reason for this is that the soul always sees perfection in the person who is superior to it and to whom it is subservient. It considers him perfect, either because it is impressed by the respect it has for him, or because it erroneously assumes that its own subservience to him is not due to the nature of defeat but to the perfection of the victor1
+>The vanquished always want to imitate the victor in his distinctive characteristics, his dress, his occupation, and all his other conditions and customs. The reason for this is that the soul always sees perfection in the person who is superior to it and to whom it is subservient. It considers him perfect, either because it is impressed by the respect it has for him, or because it erroneously assumes that its own subservience to him is not due to the nature of defeat but to the perfection of the victor1
 
-3. Foundations
+### 3. Foundations
 Apart from a few fundamentals, laws in Islam are based on individual and societal circumstances so are relatively flexible. In addition to laws, there are recommended practices (i.e. the Sunnah) that cover all parts of life. For situations you’re likely to face in daily life, there’s a host of teachings you can draw upon - for example, how to treat guests, how to control your anger, or how to approach business negotiations. Muslims can use these as frameworks to live their lives.
 
 Asad encourages sticking to these practices and talks about the benefits on two levels:

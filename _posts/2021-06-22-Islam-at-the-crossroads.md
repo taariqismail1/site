@@ -10,19 +10,21 @@ Leopold later took the name Muhammad Asad and wrote several books. Islam at the 
 
 Asad starts his book by outlining a few features of the two systems of life he had personally experienced.
 
-Modernity
+## Modernity
 Asad talks about the modern West and its ruthless quest for material progress. In the modern world, human virtues are linked to material progress, rather than ethics, which sit uncomfortably in the background. Society has alienated itself from the spiritual and submits only to human comfort. Asad stresses the point that the West is not Christianity and vice versa. The modern West, although borne out of Christianity, is anti-religious.
 
-An alternative system
+## An alternative system
 An often-repeated question is "What is the purpose of life?" According to the Islamic doctrine, the purpose of life is solely to worship God. This worship extends from purely devotional practices to all parts of life, including work, family life, and general societal interactions. Defining Islam as a 'religion' is incomplete: a more accurate definition would be a ‘way of life.’ To fulfill our purpose, we’re not meant to renounce the world. In fact, we’re meant to embrace it.
 
-Important areas
+-----
+
+## Important areas
 Having laid the foundations of the two systems (i.e. the modern West and Islam), Asad mentions a number of areas for the Muslim world to be mindful of as they choose a path forward.
 
 1. Education
 Education is important because it shapes the leaders of tomorrow. He encourages the Muslim world to adopt scientific and technical knowledge but to be thoughtful in its application. Technical knowledge is 'neither Eastern nor Western,’ so Muslims should take their own philosophy into account when using it. For example, a commercial project to extract resources from the earth should be mindful of Islam’s concept of stewardship. i.e. that human beings are responsible for the welfare of other human beings, animals, and the environment. In Asad’s words:
 
-Every Muslim has to regard himself as personally responsible for all happenings around him, and to strive to the establishment of right and the abolition of wrong at every time and in every direction
+>Every Muslim has to regard himself as personally responsible for all happenings around him, and to strive to the establishment of right and the abolition of wrong at every time and in every direction
 
 2. Imitation
 Asad wrote this book in 1934, soon after the collapse of the Ottoman Empire and the division of the Middle East. Muslims saw the material power and progress of the West and mistook their own weakness for the weakness of Islam. As Muslims built their newly formed states, he suggested reaching into Islam’s rich heritage instead of blindly imitating the West. This reminds me of what Ibn Khaldun, the great sociologist, wrote in the 14th century:
@@ -34,20 +36,22 @@ Apart from a few fundamentals, laws in Islam are based on individual and societa
 
 Asad encourages sticking to these practices and talks about the benefits on two levels:
 
-Individual - doing things systematically encourages people to live consciously and allows for moral accountability - i.e. you’re aware if your morality is slipping. Here’s an analogy: when you’re on a diet you’re more observant of what you’re eating. You also have more moral accountability - if you’ve already had a slice of cake, you know you shouldn’t really have another one.
+- Individual - doing things systematically encourages people to live consciously and allows for moral accountability - i.e. you’re aware if your morality is slipping. Here’s an analogy: when you’re on a diet you’re more observant of what you’re eating. You also have more moral accountability - if you’ve already had a slice of cake, you know you shouldn’t really have another one.
 
-Societal - establishing a common interpersonal framework gives people more clarity and certainty when dealing with others. Asad mentions most clashes are due to misunderstandings between people. If everyone is 'on the same page,' you reduce any friction that might occur. Incidentally, ‘all problems are interpersonal problems’ is one of the major premises of another good book, The Courage to be Disliked.
+- Societal - establishing a common interpersonal framework gives people more clarity and certainty when dealing with others. Asad mentions most clashes are due to misunderstandings between people. If everyone is 'on the same page,' you reduce any friction that might occur. Incidentally, ‘all problems are interpersonal problems’ is one of the major premises of another good book, The Courage to be Disliked.
 
-Approaching another crossroads
+-----
+
+## Approaching another crossroads
 Although Islam at the Crossroads was written close to a century ago, it's still relevant today. Some of what Asad imagined did in fact happen, but Muslims are approaching another crossroads.
 
 Three macro trends are playing an important role:
 
-Material progress has been instrumental in raising the quality of life around the world, but this has come at a cost. It’s come at a cost to the environment and society. Communities have broken down as life has tended towards individualism. Both Muslims and non-Muslims are now looking for a human-centred idea of life.
+1. Material progress has been instrumental in raising the quality of life around the world, but this has come at a cost. It’s come at a cost to the environment and society. Communities have broken down as life has tended towards individualism. Both Muslims and non-Muslims are now looking for a human-centred idea of life.
 
-Increased consciousness in the Muslim world. Muslims are gaining more self-confidence in their rich history and are approaching life and work through this lens.
+2. Increased consciousness in the Muslim world. Muslims are gaining more self-confidence in their rich history and are approaching life and work through this lens.
 
-Decentralisation and localisation are empowering people across the world, rather than just in a few major urban centres. The internet and social media are also playing a big role in this: Muslims are producing their own media and can access education aligned with their values. Importantly, it also gives young people role models they can relate to.
+3. Decentralisation and localisation are empowering people across the world, rather than just in a few major urban centres. The internet and social media are also playing a big role in this: Muslims are producing their own media and can access education aligned with their values. Importantly, it also gives young people role models they can relate to.
 
 Islam at the Crossroads is a very interesting, thought-provoking book, but I’d recommend it only after reading a few books on the subject. An excellent starting place is The Road to Mecca.
 

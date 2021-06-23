@@ -29,7 +29,7 @@ Education is important because it shapes the leaders of tomorrow. __He encourage
 ### 2. Imitation
 Asad wrote this book in 1934, soon after the collapse of the Ottoman Empire and the division of the Middle East. Muslims saw the material power and progress of the West and mistook their own weakness for the weakness of Islam. __As Muslims built their newly formed states, he suggested reaching into Islam’s rich heritage instead of blindly imitating the West.__ This reminds me of what Ibn Khaldun, the great sociologist, wrote in the 14th century:
 
->The vanquished always want to imitate the victor in his distinctive characteristics, his dress, his occupation, and all his other conditions and customs. The reason for this is that the soul always sees perfection in the person who is superior to it and to whom it is subservient. It considers him perfect, either because it is impressed by the respect it has for him, or because it erroneously assumes that its own subservience to him is not due to the nature of defeat but to the perfection of the victor1
+>The vanquished always want to imitate the victor in his distinctive characteristics, his dress, his occupation, and all his other conditions and customs. The reason for this is that the soul always sees perfection in the person who is superior to it and to whom it is subservient. It considers him perfect, either because it is impressed by the respect it has for him, or because it erroneously assumes that its own subservience to him is not due to the nature of defeat but to the perfection of the victor<sup>1</sup>
 
 ### 3. Foundations
 Apart from a few fundamentals, laws in Islam are based on individual and societal circumstances so are relatively flexible. In addition to laws, there are recommended practices (i.e. the Sunnah) that cover all parts of life. __For situations you’re likely to face in daily life, there’s a host of teachings you can draw upon__ - for example, how to treat guests, how to control your anger, or how to approach business negotiations. Muslims can use these as frameworks to live their lives.
@@ -61,3 +61,5 @@ Three macro trends are playing an important role:
 <iframe src="https://taariq.substack.com/embed" width="350" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
 
 </div>
+
+1. From the Muqaddimah. This needs another blog post to unpack.

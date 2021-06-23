@@ -4,7 +4,7 @@ subtitle: The choice presents itself again
 description: A review of Muhammad Asad's 1934 book, Islam at the Crossroads
 ---
 
-Leopold Weiss has one of the most interesting stories I’ve heard. He was born in Austro-Hungary in 1900 and was the grandson of an Orthodox Rabbi and the son of a lawyer. In his 20s he worked as a journalist in the Middle East and would go on to have a large influence on the geopolitics of the region. He outlines this story in _[The Road to Mecca](https://blackwells.co.uk/bookshop/product/9781887752374?gC=5a105e8b&gclid=CjwKCAjw8cCGBhB6EiwAgORey5MfB9TbP_n-Q3zPaJ-uyhKNyG0NShpQN1J_RDgFQCZkFkgvDynJAhoCRdQQAvD_BwE), which is one of my favourite books - both for the content and its rich language.
+Leopold Weiss has one of the most interesting stories I’ve heard. He was born in Austro-Hungary in 1900 and was the grandson of an Orthodox Rabbi and the son of a lawyer. In his 20s he worked as a journalist in the Middle East and would go on to have a large influence on the geopolitics of the region. He outlines this story in *[The Road to Mecca](https://blackwells.co.uk/bookshop/product/9781887752374?gC=5a105e8b&gclid=CjwKCAjw8cCGBhB6EiwAgORey5MfB9TbP_n-Q3zPaJ-uyhKNyG0NShpQN1J_RDgFQCZkFkgvDynJAhoCRdQQAvD_BwE)*, which is one of my favourite books - both for the content and its rich language.
 
 Leopold later took the name Muhammad Asad and wrote several books. __*Islam at the Crossroads* was his first major book__, published in 1934. He shares his thoughts about the world at that time: __new countries had recently been formed and Muslims had a choice as they plotted a way forward.__ In this post, I recast some of the main points from the book and add my thoughts on why it’s relevant today.
 

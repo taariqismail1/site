@@ -20,6 +20,8 @@ Most people believe writing is just about communicating ideas, but a major eleme
 ### Writing quickly
 I was initially spending too much time writing these posts. __After a few months I started using a process:__ I’d set a countdown timer for around 3 hours and try my best to stick to that limit<sup>2</sup>. In nearly all cases I go over by at least 30 minutes - but that’s still quicker than writing without any time limits. __I’ve become a quicker writer: over time I’ve produced longer articles in a shorter amount of time__ (see chart for the average length<sup>3</sup> of my posts this year).
 
+![a-z]({{ site.baseurl }}/assets/img/posts/22a.PNG)
+
 ### Building in public
 I didn’t appreciate this at the beginning. By sharing ideas online, __I’ve had a number of good discussions based on the posts I’ve written.__ This has mainly been people sharing their experience or recommending books, but there have also been times when people disagree with parts of what I’ve written. This ultimately helps you build a better understanding of the topic.
 
@@ -52,7 +54,7 @@ Here’s a simple process:
 - __Start writing__ about anything
 - __[Focus on quantity over quality](https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/)__
 
----- -
+-----
 ## A favour
 I normally don't have a call to action at the end of these posts, but I'd be keen to hear your thoughts on this blog. __Which posts have you enjoyed? What could have been different? Other good writing resources?__
 

@@ -8,7 +8,7 @@ The internet is full of articles about ‘*starting a blog that changes your lif
 
 ## Reflections
 ### High level reflections
-Writing is one of the most important skills in the modern economy. __It’s an enabler: quicker and better you can write, the more productive you’ll be.__ My original goals for this blog were to improve my writing<sup>1</sup> and to explore my interests. I’ve mainly focussed on consistency and have made an effort to publish roughly every week. As William Zinsser says in *On Writing Well[https://taariq.substack.com/p/on-writing-well]*:
+Writing is one of the most important skills in the modern economy. __It’s an enabler: quicker and better you can write, the more productive you’ll be.__ My original goals for this blog were to improve my writing<sup>1</sup> and to explore my interests. I’ve mainly focussed on consistency and have made an effort to publish roughly every week. As William Zinsser says in *[On Writing Well](https://taariq.substack.com/p/on-writing-well)*:
 
 > *You learn to write by writing. It's a truism, but what makes it a truism is that it's true. The only way to learn to write is to force yourself to produce a certain number of words on a regular basis.*
 

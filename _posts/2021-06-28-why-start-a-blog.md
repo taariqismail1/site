@@ -24,10 +24,10 @@ I was initially spending too much time writing these posts. __After a few months
 I didn’t appreciate this at the beginning. By sharing ideas online, __I’ve had a number of good discussions based on the posts I’ve written.__ This has mainly been people sharing their experience or recommending books, but there have also been times when people disagree with parts of what I’ve written. This ultimately helps you build a better understanding of the topic.
 
 ### Things to write about
-Before starting I was worried I’d run out of topics after a few months. In fact, the opposite is true: __when I wrote about topics I often found related questions to investigate.__ For example, I wrote about the origins of money and debt and then found a paper on how commercial banks create money, which led to another post.
+Before starting I was worried I’d run out of topics after a few months. In fact, the opposite is true: __when I wrote about topics I often found related questions to investigate.__ For example, I wrote about the [origins of money and debt](https://taariq.substack.com/p/7-debt-and-the-story-of-money) and then found a paper on how commercial banks create money, which led to [another post](https://taariq.substack.com/p/10-creating-money).
 
 ### Improved writing
-This is really hard to measure. I can't say whether the __quality__ of my writing has improved since I started this blog. I’ve focused on consistency and am trusting that quantity leads to quality.
+This is really hard to measure. I can't say whether the __quality__ of my writing has improved since I started this blog. I’ve focused on consistency and am trusting that [quantity leads to quality](https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/).
 
 -----
 ## Looking forward
@@ -43,14 +43,18 @@ I wish I had started earlier. Even when I knew about the benefits of writing, I 
 
 Here’s a simple process:
 - __Learn__. Before jumping in you should spend some time convincing yourself this is a good use of time for you. Some resources:
-    1. Writing, Briefly
-    2. The Ultimate Guide to Writing Online
-    3. How To Convince Your Friends To Start A Blog
-    4. Tim Ferris interviews Jerry Seinfeld
+    1. [Writing, Briefly](http://www.paulgraham.com/writing44.html)
+    2. [The Ultimate Guide to Writing Online](https://perell.com/essay/the-ultimate-guide-to-writing-online/)
+    3. [How To Convince Your Friends To Start A Blog](https://notoverthinking.com/how-to-convince-your-friends-to-start-a-blog/)
+    4. [Tim Ferris interviews Jerry Seinfeld](https://tim.blog/2020/12/08/jerry-seinfeld/)
 
-- __Choose a blogging platform__. I use substack as my primary platform - it’s really easy to use and has a mailing list feature. You could use also use a personal website. Don’t overthink this step - you should get something up and running in less than an hour<sup>4</sup>.
-- Start writing about anything
-- Focus on quantity over quality
+- __Choose a blogging platform__. I use [substack](https://substack.com/) as my primary platform - it’s really easy to use and has a mailing list feature. You could use also use a personal website. Don’t overthink this step - you should get something up and running in less than an hour<sup>4</sup>.
+- __Start writing__ about anything
+- __[Focus on quantity over quality](https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/)__
+
+---- -
+## A favour
+I normally don't have a call to action at the end of these posts, but I'd be keen to hear your thoughts on this blog. __Which posts have you enjoyed? What could have been different? Other good writing resources?__
 
 ### Sign up to my blog here
 <div

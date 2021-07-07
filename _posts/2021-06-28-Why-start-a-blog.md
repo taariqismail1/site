@@ -65,6 +65,7 @@ I normally don't have a call to action at the end of these posts, but I'd be kee
 
 </div>
 
+-----
 1. Having studied sciences and engineering, I’ve generally over-indexed on the quantitative side
 2. I don’t write in one sitting. I usually spread this time over a few days
 3. I’m trying to keep posts relatively short, so I don’t expect this trend to continue

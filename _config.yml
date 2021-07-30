@@ -203,8 +203,8 @@ kramdown:
 defaults:
   -
     scope:
-      path:
-      type: "post"
+      path: ""
+      type: "posts"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts

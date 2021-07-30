@@ -18,7 +18,6 @@ baseurl: ""
 navbar-links:
   About: "about"
   Blog: "blog"
-  Test: "test"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
@@ -204,7 +203,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: 
+      path:
       type: "post"
     values:
       layout: "post"

@@ -204,12 +204,8 @@ kramdown:
 defaults:
   -
     scope:
-      path: "/site/_posts/blog"
-      type: "blog"
-    scope:
-      path: "/site/_posts/arabic"
-      values:
-      type: "arabic"
+      path: 
+      type: "post"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts

@@ -9,4 +9,4 @@ Test
 
 Here are some notes:
 
-- [Sample page](/arabic/sample.md)
+- <a href="{{ site.url }}{{site.baseurl}}/arabic/sample.html">Sample page</a>

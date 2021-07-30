@@ -3,6 +3,8 @@ layout: home
 title: Taariq's blog
 ---
 
+{% assign posts = site.posts | where:"type", "blog" %}
+
 I recently started a blog on Substack. I don't yet have a niche - I'm using it to explore my interests, improve my writing and learn in public. [Here](https://taariqismail.com/2021-01-07-Thinking-on-paper) are a few more reasons. 
 
 ### Sign up to my blog here:

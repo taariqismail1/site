@@ -204,8 +204,8 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path: "_posts/blog"
+      type: "blog"
     scope:
       path: "_posts/arabic"
       values:

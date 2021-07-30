@@ -206,6 +206,10 @@ defaults:
     scope:
       path: ""
       type: "posts"
+    scope:
+      path: "_posts/arabic"
+      values:
+      type: "arabic"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts

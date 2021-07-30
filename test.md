@@ -3,4 +3,6 @@ layout: page
 title: Test
 ---
 
-Test test
+Test
+
+{% assign posts = site.posts | where:"type", "arabic" %}

@@ -204,10 +204,10 @@ kramdown:
 defaults:
   -
     scope:
-      path: "site/_posts/blog"
+      path: "/site/_posts/blog"
       type: "blog"
     scope:
-      path: "site/_posts/arabic"
+      path: "/site/_posts/arabic"
       values:
       type: "arabic"
     values:

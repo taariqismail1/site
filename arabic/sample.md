@@ -3,4 +3,4 @@ Title: sample
 layout: default
 ---
 
-Let's try if this works
+Let's see if this works

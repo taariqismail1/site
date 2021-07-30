@@ -9,4 +9,4 @@ Test
 
 Here are some notes:
 
-- <a href="{{ site.url }}{{site.baseurl}}/arabic/sample.html">Sample page</a>
+- <a href="{{site.baseurl}}/arabic/sample.html">Sample page</a>

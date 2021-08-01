@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE TITLE"
-permalink: /arabic/sample.md
+permalink: taariqismail.com/arabic/sample.md
 ---
 
 Test

@@ -1,5 +1,5 @@
 ---
-layout: home-arabic
+layout: home
 title: Arabic
 ---
 This is a test

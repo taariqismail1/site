@@ -1,24 +1,18 @@
 ---
-layout: home-arabic
-title: Arabic
+layout: default
+title: Blog1
+category: blog1
 ---
-This is a test
-
-<!-- Html Elements for Search
-<div id="search-container">
-<input type="text" id="search-input" placeholder="search...">
-<ul id="results-container"></ul>
-</div>
-
-<!-- Script pointing to search-script.js
-<script src="{{ site.baseurl }}/assets/js/search-script.js" type="text/javascript"></script>
-
-<!-- Configuration 
-<script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
-})
-</script>
--->
+{% raw %}
+{% for post in site.posts %}
+  {% if post.categories contains 'blog1' %}
+	<div class="post">
+		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		<p class="meta">Date: {{ post.date }}</p>
+		<div class="entry">
+			{{ post.content | strip_html | truncatewords: 100 }}
+		</div>
+	</div>
+  {% endif %}
+{% endfor %}
+{% endraw %}

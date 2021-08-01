@@ -1,6 +1,6 @@
 ---
 layout: home-arabic
-title: Arabic
+title: Arabic notes
 ---
 
 I've been learning Arabic for a number of years now. These are my notes/ what I'm learning at the moment. I'm documenting what I'm learning to make sure I digest the new vocabulary or concepts I come across. 

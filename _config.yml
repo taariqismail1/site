@@ -226,7 +226,7 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
+  # jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-target-blank

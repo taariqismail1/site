@@ -8,7 +8,6 @@ layout: page
 
 <div class="posts-list">
   {% for post in posts %}
-  {% if post.categories contains 'blog1' %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
@@ -87,7 +86,7 @@ layout: page
     {% endif %}
 
    </article>
-       {% endif %}
+
   {% endfor %}
 </div>
 

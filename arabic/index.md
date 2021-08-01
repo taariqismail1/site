@@ -1,8 +1,3 @@
----
-layout: default
-title: Blog1
-category: blog1
----
 {% raw %}
 {% for post in site.posts %}
   {% if post.categories contains 'blog1' %}

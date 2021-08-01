@@ -17,6 +17,7 @@ baseurl: ""
 
 navbar-links:
   About: "about"
+  Arabic notes: "arabic"
   Blog: "blog"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"

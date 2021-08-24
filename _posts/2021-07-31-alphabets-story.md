@@ -6,6 +6,7 @@ description: A brief history of the alphabet and the different writing systems u
 
 Ever wondered why alphabets are so similar? Evidence suggests the alphabet was only invented once so all alphabets can be traced to a single source. To understand its history, we also have to understand __other types of writing systems.__ Alphabets are just one type - many other writing systems exist and are still used by living languages.
 
+![Writing systems]({{ site.baseurl }}/assets/img/posts/25a.PNG)
 
 For example, Chinese languages use a logographic system and Japanese uses a syllabic system (based on logograms). Before getting to alphabetic systems, it’s worth going through these other types.
 
@@ -27,6 +28,8 @@ A syllabary is a set of symbols that represent syllables, which make up words. J
 ### The coming of the alphabet
 Modern alphabets are all derived from the same source (see ABCD Family Tree diagram below). We can trace the transformation of around 22 Egyptian logograms into the Phoenician alphabet around 1000BCE - 1500BCE. This __early alphabet only had consonants__ so wasn’t an alphabet in the strict sense<sup>1</sup>.
 
+![Letters from early alphabets, from The Loom of Language systems]({{ site.baseurl }}/assets/img/posts/25b.png)
+
 An alphabet with only consonants worked because Semitic languages are made up of words that have three consonants. ‘Vowels’ are pronounced in between these consonants but aren’t written down - e.g. the Arabic word for milk, laban, is written with three letters in the Arabic script (لبن).
 
 *Interesting side note: Arabs who are learning English will often write words without any vowels at all. Something like this: vwls, intrstng, chldrn*
@@ -35,6 +38,8 @@ An alphabet with only consonants worked because Semitic languages are made up of
 Greek is a language rich in vowels. __To adapt the Phoenician alphabet to their own use, the Greeks had to introduce vowels.__ They did this by taking Phoenician letters that they had no use for (*ālep, ayin*) and turned them into vowels, as well as creating additional letters for other vowels. __The word ‘alphabet’ actually comes from the first two letters of the Greek alphabet - alpha and beta.__
 
 This then evolved into the Latin alphabet (through the Etruscan one) that I’m using to write this post. This infographic from [Ryan Starkey](https://starkeycomics.com/home/) nicely shows the evolution of different scripts from Egyptian logograms.
+
+![ABCD Family Tree]({{ site.baseurl }}/assets/img/posts/25c.jpeg)
 
 ### The role of scribes
 There are many variations of letters amongst different languages, even within the Latin alphabet. Why do some alphabets include additional letters e.g. ø, ü? Scribes introduced them when they came across a sound that doesn’t fit the range of letters they had. Scribes may also create random combinations of existing symbols to represent other sounds - e.g. TH, or SH.

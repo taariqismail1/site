@@ -28,7 +28,9 @@ A syllabary is a set of symbols that represent syllables, which make up words. J
 ### The coming of the alphabet
 Modern alphabets are all derived from the same source (see ABCD Family Tree diagram below). We can trace the transformation of around 22 Egyptian logograms into the Phoenician alphabet around 1000BCE - 1500BCE. This __early alphabet only had consonants__ so wasn’t an alphabet in the strict sense<sup>1</sup>.
 
+<center>
 ![Letters from early alphabets, from The Loom of Language systems]({{ site.baseurl }}/assets/img/posts/25b.png)
+</center>
 
 An alphabet with only consonants worked because Semitic languages are made up of words that have three consonants. ‘Vowels’ are pronounced in between these consonants but aren’t written down - e.g. the Arabic word for milk, laban, is written with three letters in the Arabic script (لبن).
 

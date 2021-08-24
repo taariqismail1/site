@@ -4,53 +4,56 @@ subtitle: Coming to terms with an author to understand their arguments
 description: A review and summary of Adler's How to Read a Book, diving into analytical reading
 ---
 
-Reading a book is a skill that everyone can learn. In this post, we'll go through the second stage of reading1: analytical reading. It builds on the first stage: intelligent skimming and superficial reading, which I covered in a previous post.
+Reading a book is a skill that everyone can learn. __In this post, we'll go through the second stage of reading<sup>1</sup>: *analytical reading.*__ It builds on the first stage: intelligent skimming and superficial reading, which I covered in the previous [post](https://taariqismail.com/2021-07-07-how-to-read-a-book-i/).
 
 Few books are worth reading, and they’re bound to be challenging. As the authors of How to Read a Book: The Classic Guide to Intelligent Reading say:
 
-If a book is easy and fits nicely into all your language conventions and thought forms, then you probably will not grow much from reading it. It may be entertaining, but not enlarging to your understanding. It’s the hard books that count. Raking is easy, but all you get is leaves; digging is hard, but you might find diamonds.
+> If a book is easy and fits nicely into all your language conventions and thought forms, then you probably will not grow much from reading it. It may be entertaining, but not enlarging to your understanding. It’s the hard books that count. Raking is easy, but all you get is leaves; digging is hard, but you might find diamonds.
 
-Reading tough books is an active exercise - you have to be engaged, and it's not something you do whilst on your pillow just before bed (although reading challenging books is a great way of drifting off to sleep).
+__Reading tough books is an active exercise__ - you have to be engaged, and it's not something you do whilst on your pillow just before bed (although reading challenging books is a great way of drifting off to sleep).
 
-After the first stage of reading, you should know the structure of the book and its conclusions. Analytical reading helps you dive deeper into the arguments that lead to the conclusions.
------
-
-## Introduction
-People read books for many reasons: for pleasure (i.e. fiction), for information1, and for understanding. These notes concern reading for understanding, which requires books that are slightly out of your comfort zone. __Reading challenging books is stimulation for the mind and sharpens your critical thinking.__
-
-## How to read a book
-The aim of reading a book is to build up your knowledge of the topic. It’s a multi-step process and takes time. __You can think of it as building a house:__ first you set the foundations and erect a frame; you then build a basic structure that resembles a house; and finally you add detail and finishing to the house.
-
-Here’s how:
-
-1. First, try to get a good understanding of its structure and main points by __intelligently skimming__
-2. __Read the book superficially__ to get a grasp of the book as a whole and understand the language the author uses. *Intelligent skimming and superficial reading are the focus of this blog post.*
-3. Then __read it analytically__. I'll cover these in a second blog post.
+After the [first stage](https://taariqismail.com/2021-07-07-how-to-read-a-book-i/) of reading, you should know the structure of the book and its conclusions. __Analytical reading helps you dive deeper into the arguments that lead to the conclusions.__
 
 -----
 
+## How to read analytically
+### 1. Understand the problem the author wants to solve
+This is the most important step in analytical reading: you should articulate the problem the author is trying to solve. Without this step, reading can often just be a mental exercise.
 
-### 1. Intelligent skimming
-The aim of intelligent skimming is to understand the outline of the book and find the major conclusions. It’s tempting to immediately start reading a book cover-to-cover, but you should set aside time for this exercise.
+### 2. Come to terms with the author
+The author will use many words, but not all of them will be important. It’s relatively easy to identify the important ones - the author will often explicitly define them, or contrast the way they’ve used them to how other authors have. The important words are also likely to be the ones you’ll have trouble with - you might need to look the second or third meanings in the dictionary.
 
-After reading the title and publisher’s blurb to understand the type of book, you should:
+### 3. Find the key propositions
+A proposition is a sentence the author uses to make a point - it should be backed up by evidence or reasoning. If it isn't, it's simply the author's opinion and should be treated that way.
 
-- __Read the table of contents.__ This is a map of the book. It shows you the overall structure and gives you a sense of where the book is going, and what path the author is taking you on.
-- __Scan the index.__ This will give you an idea of the topics covered in the book. Pay attention to the number of times a term is referenced in the index - this will help you identify the crucial terms. Look up some of the cited passages - these might contain the crux of the book.
-- __Read the introduction.__ Towards the end of the introduction, the author will usually lay out the structure of the book. This will give you an overview of the main arguments of the book and how they flow together
-- __Understand the main conclusions.__ At this point, you have an overview of the jargon and the journey the author is taking you on. It should be relatively easy to identify the pivotal chapters to the argument. Read a few paragraphs from them, particularly the end of the chapters, where you’ll find a few short paragraphs summarising the relevant chapter.
-- __Read the last few pages.__ The author usually summarises the key arguments of the book at the end. You should now know the author’s key argument and its implications.
-- __Dip into various parts of the book.__ Read one or two paragraphs at a time (but not more) to add colour to what you’ve already discovered.
+### 4. Construct the author's argument
+Sometimes the author explicitly states how their propositions lead to arguments, but most of the time we have to construct the argument using propositions from different paragraphs. The propositions should build on each other, and shouldn’t be contradictory. __Once you're convinced that you understand an argument, you should restate it in your own words. Writing it down is best: reading and writing go hand in hand.__
 
-A key question at this point is: __does this book deserve more of your time and attention? If not, put it down.__
+### 5. So what?
+As you're digesting the arguments, you should be asking __'so what?'__ i.e. why is this relevant? What does it mean? Does it solve the problems the author framed?
 
-*A major point of ‘How to Read a Book’ is that not all books deserve to be read properly. Most popular business books aren't worth reading in this way. However, they have lots of examples that bring arguments to life in a variety of contexts, so are useful from that perspective. The good thing is that they don't need your full attention and can be read quickly (i.e. just superficially).*
+### 6. Criticizing a book
+__Reading is a conversation between you and the author:__ you ask the book questions, rather than simply receiving information. The first rule of criticism is only to do so after you've finished and understood the book - it's similar to any form of debate, where you should first hear out the other person.
 
-### 2. Superficial reading
-The next step is to read the book superficially. The key here is to __read through relatively quickly__ without stopping to look up unfamiliar words. Similarly, just move on if you don't fully understand an argument. Major points are usually rehashed later in the book and will become clearer as you progress.
+Your reasons for criticising the author shouldn’t be vague (e.g. ‘it doesn’t sit right with me’), but should fall into one of these categories:
+1. __The author is misinformed or not informed__ - when the author has stated something that isn’t true or missed some facts
+2. __The author’s reasoning is flawed__ - when the author has succumbed to a logical fallacy
+3. __The author's analysis is incomplete__ - this is when the author hasn’t solved the problem they set out to
 
-Superficial reading helps you get a good grasp of the book as a whole and lays the foundations for the next stage of reading. This is what the author calls __analytical reading, where the major benefits of reading are.__ I’ll cover this in the next blog post.
+-----
 
+## How to get the most out of reading
+You need a __pencil in your hand at all times to read actively__. Whilst reading you should:
+- Underline key terms and propositions
+- Number the author's propositions to keep track of them
+- Write notes in margins
+- Draw diagrams, especially of hierarchies
+- Reference other parts of the book where the author’s made similar points, or contradictory
+
+You can do the same thing on a Kindle by highlighting and adding comments. I prefer the manual method because it’s more versatile: you can sketch diagrams, draw arrows connecting different parts of the text, and easily see all your annotations.
+
+## What's next?
+There is technically another stage after analytical reading: synoptical reading. This is where you read several books on the same topic and bring the different authors to your own terms to compare the merits of their arguments. “Knowing that more than one book is relevant to a particular question is the first requirement in any project of synoptical reading.”
 
 ### Sign up to my blog here
 <div
@@ -58,4 +61,6 @@ Superficial reading helps you get a good grasp of the book as a whole and lays t
 <iframe src="https://taariq.substack.com/embed" width="350" height="150" style="border:1px solid #EEE; background:white; margin: 0 auto; dislay: block;" frameborder="0" scrolling="no"></iframe>
 
 </div>
+-----
+1. In the authors’ book, there are four stages of reading: intelligent skimming; superficial reading; analytical reading; syntopical reading. I’ve condensed them.
 

@@ -4,58 +4,52 @@ subtitle: Quickly understanding a book's message
 description: A review and summary of Adler's How to Read a Book
 ---
 
-Very few people know how to read books. That’s a pity. Knowing how to read is a skill that completely changes what we can get from a book. At school we learn to read (i.e. understand sentences and paragraphs), but reading a book is much more than that.
+__Very few people know *how* to read books.__ That’s a pity. Knowing how to read is a skill that completely changes what we can get from a book. At school we learn to read (i.e. understand sentences and paragraphs), but reading a book is much more than that.
 
-Here are some notes from How to Read a Book: The Classic Guide to Intelligent Reading, by Mortimer Adler and Charles Van Doren. As the authors say:
+Here are some notes from [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.co.uk/How-Read-Book-Intelligent-Touchstone/dp/0671212095), by Mortimer Adler and Charles Van Doren. As the authors say:
 
-Reading is like skiing. When done well, when done by an expert, both reading and skiing are graceful, harmonious activities. When done by a beginner, both are awkward, frustrating, and slow
+> Reading is like skiing. When done well, when done by an expert, both reading and skiing are graceful, harmonious activities. When done by a beginner, both are awkward, frustrating, and slow
 
-I first came across the topic through this talk on the same subject, which I’d also recommend.
-
-## Modernity
-__Asad talks about the modern West and its ruthless quest for material progress.__ In the modern world, human virtues are linked to material progress, rather than ethics, which sit uncomfortably in the background. Society has alienated itself from the spiritual and submits only to human comfort. __Asad stresses the point that the West is not Christianity and vice versa.__ The modern West, although borne out of Christianity, is anti-religious.
-
-## An alternative system
-An often-repeated question is *"What is the purpose of life?"* According to the Islamic doctrine, the purpose of life is solely to worship God. This worship extends from purely devotional practices to all parts of life, including work, family life, and general societal interactions. __Defining Islam as a *'religion'* is incomplete: a more accurate definition would be a *‘way of life.’*__ To fulfill our purpose, we’re not meant to renounce the world. In fact, we’re meant to embrace it.
+I first came across the topic through [this](https://www.youtube.com/watch?v=hHIiqWqPOng&t=196s) talk on the same subject, which I’d also recommend.
 
 -----
 
-## Important areas
-Having laid the foundations of the two systems (i.e. the modern West and Islam), Asad mentions a number of areas for the Muslim world to be mindful of as they choose a path forward.
+## Introduction
+People read books for many reasons: for pleasure (i.e. fiction), for information1, and for understanding. These notes concern reading for understanding, which requires books that are slightly out of your comfort zone. __Reading challenging books is stimulation for the mind and sharpens your critical thinking.__
 
-### 1. Education
-Education is important because it shapes the leaders of tomorrow. __He encourages the Muslim world to adopt scientific and technical knowledge but to be thoughtful in its application.__ Technical knowledge is *'neither Eastern nor Western,’* so Muslims should take their own philosophy into account when using it. For example, a commercial project to extract resources from the earth should be mindful of __Islam’s concept of stewardship. i.e. that human beings are responsible for the welfare of other human beings, animals, and the environment.__ In Asad’s words:
+## How to read a book
+The aim of reading a book is to build up your knowledge of the topic. It’s a multi-step process and takes time. __You can think of it as building a house:__ first you set the foundations and erect a frame; you then build a basic structure that resembles a house; and finally you add detail and finishing to the house.
 
->Every Muslim has to regard himself as personally responsible for all happenings around him, and to strive to the establishment of right and the abolition of wrong at every time and in every direction
+Here’s how:
 
-### 2. Imitation
-Asad wrote this book in 1934, soon after the collapse of the Ottoman Empire and the division of the Middle East. Muslims saw the material power and progress of the West and mistook their own weakness for the weakness of Islam. __As Muslims built their newly formed states, he suggested reaching into Islam’s rich heritage instead of blindly imitating the West.__ This reminds me of what Ibn Khaldun, the great sociologist, wrote in the 14th century:
-
->The vanquished always want to imitate the victor in his distinctive characteristics, his dress, his occupation, and all his other conditions and customs. The reason for this is that the soul always sees perfection in the person who is superior to it and to whom it is subservient. It considers him perfect, either because it is impressed by the respect it has for him, or because it erroneously assumes that its own subservience to him is not due to the nature of defeat but to the perfection of the victor<sup>1</sup>
-
-### 3. Foundations
-Apart from a few fundamentals, laws in Islam are based on individual and societal circumstances so are relatively flexible. In addition to laws, there are recommended practices (i.e. the Sunnah) that cover all parts of life. __For situations you’re likely to face in daily life, there’s a host of teachings you can draw upon__ - for example, how to treat guests, how to control your anger, or how to approach business negotiations. Muslims can use these as frameworks to live their lives.
-
-Asad encourages sticking to these practices and talks about the benefits on two levels:
-
-- __Individual__ - doing things systematically encourages people to live consciously and allows for moral accountability - __i.e. you’re aware if your morality is slipping.__ Here’s an analogy: when you’re on a diet you’re more observant of what you’re eating. You also have more moral accountability - if you’ve already had a slice of cake, you know you shouldn’t really have another one.
-
-- __Societal__ - establishing a __common interpersonal framework gives people more clarity and certainty when dealing with others.__ Asad mentions most clashes are due to misunderstandings between people. If everyone is 'on the same page,' you reduce any friction that might occur. Incidentally, ‘all problems are interpersonal problems’ is one of the major premises of another good book, *[The Courage to be Disliked](https://www.amazon.co.uk/Courage-Be-Disliked-yourself-happiness/dp/176063073X/ref=asc_df_176063073X/?tag=googshopuk-21&linkCode=df0&hvadid=310805565966&hvpos=&hvnetw=g&hvrand=6832469819042201549&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045494&hvtargid=pla-546671980543&psc=1)*.
+1. First, try to get a good understanding of its structure and main points by __intelligently skimming__
+2. __Read the book superficially__ to get a grasp of the book as a whole and understand the language the author uses. *Intelligent skimming and superficial reading are the focus of this blog post.*
+3. Then __read it analytically__. I'll cover these in a second blog post.
 
 -----
 
-## Approaching another crossroads
-Although Islam at the Crossroads was written close to a century ago, it's still relevant today. Some of what Asad imagined did in fact happen, but Muslims are approaching another crossroads.
 
-Three macro trends are playing an important role:
+### 1. Intelligent skimming
+The aim of intelligent skimming is to understand the outline of the book and find the major conclusions. It’s tempting to immediately start reading a book cover-to-cover, but you should set aside time for this exercise.
 
-1. __Material progress__ has been instrumental in raising the quality of life around the world, but this has come at a cost. __It’s come at a cost to the environment and society.__ Communities have broken down as life has tended towards individualism. Both Muslims and non-Muslims are now looking for a human-centred idea of life.
+After reading the title and publisher’s blurb to understand the type of book, you should:
 
-2. __Increased consciousness__ in the Muslim world. Muslims are gaining more self-confidence in their rich history and are approaching life and work through this lens.
+- __Read the table of contents.__ This is a map of the book. It shows you the overall structure and gives you a sense of where the book is going, and what path the author is taking you on.
+- __Scan the index.__ This will give you an idea of the topics covered in the book. Pay attention to the number of times a term is referenced in the index - this will help you identify the crucial terms. Look up some of the cited passages - these might contain the crux of the book.
+- __Read the introduction.__ Towards the end of the introduction, the author will usually lay out the structure of the book. This will give you an overview of the main arguments of the book and how they flow together
+- __Understand the main conclusions.__ At this point, you have an overview of the jargon and the journey the author is taking you on. It should be relatively easy to identify the pivotal chapters to the argument. Read a few paragraphs from them, particularly the end of the chapters, where you’ll find a few short paragraphs summarising the relevant chapter.
+- __Read the last few pages.__ The author usually summarises the key arguments of the book at the end. You should now know the author’s key argument and its implications.
+- __Dip into various parts of the book.__ Read one or two paragraphs at a time (but not more) to add colour to what you’ve already discovered.
 
-3. __Decentralisation__ and localisation are empowering people across the world, rather than just in a few major urban centres. The internet and social media are also playing a big role in this: Muslims are producing their own media and can access education aligned with their values. Importantly, it also gives young people role models they can relate to.
+A key question at this point is: __does this book deserve more of your time and attention? If not, put it down.__
 
-*Islam at the Crossroads* is a very interesting, thought-provoking book, but I’d recommend it only after reading a few books on the subject. An excellent starting place is *[The Road to Mecca](https://blackwells.co.uk/bookshop/product/9781887752374?gC=5a105e8b&gclid=CjwKCAjw8cCGBhB6EiwAgORey5MfB9TbP_n-Q3zPaJ-uyhKNyG0NShpQN1J_RDgFQCZkFkgvDynJAhoCRdQQAvD_BwE)*.
+*A major point of ‘How to Read a Book’ is that not all books deserve to be read properly. Most popular business books aren't worth reading in this way. However, they have lots of examples that bring arguments to life in a variety of contexts, so are useful from that perspective. The good thing is that they don't need your full attention and can be read quickly (i.e. just superficially).*
+
+### 2. Superficial reading
+The next step is to read the book superficially. The key here is to __read through relatively quickly__ without stopping to look up unfamiliar words. Similarly, just move on if you don't fully understand an argument. Major points are usually rehashed later in the book and will become clearer as you progress.
+
+Superficial reading helps you get a good grasp of the book as a whole and lays the foundations for the next stage of reading. This is what the author calls __analytical reading, where the major benefits of reading are.__ I’ll cover this in the next blog post.
+
 
 ### Sign up to my blog here
 <div
@@ -64,4 +58,3 @@ Three macro trends are playing an important role:
 
 </div>
 
-1. From the Muqaddimah. This needs another blog post to unpack.

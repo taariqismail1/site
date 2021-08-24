@@ -6,7 +6,7 @@ description: A review and summary of Adler's How to Read a Book, diving into ana
 
 Reading a book is a skill that everyone can learn. __In this post, we'll go through the second stage of reading<sup>1</sup>: *analytical reading.*__ It builds on the first stage: intelligent skimming and superficial reading, which I covered in the previous [post](https://taariqismail.com/2021-07-07-how-to-read-a-book-i/).
 
-Few books are worth reading, and they’re bound to be challenging. As the authors of How to Read a Book: The Classic Guide to Intelligent Reading say:
+Few books are worth reading, and they’re bound to be challenging. As the authors of [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.co.uk/How-Read-Book-Intelligent-Touchstone/dp/0671212095) say:
 
 > If a book is easy and fits nicely into all your language conventions and thought forms, then you probably will not grow much from reading it. It may be entertaining, but not enlarging to your understanding. It’s the hard books that count. Raking is easy, but all you get is leaves; digging is hard, but you might find diamonds.
 

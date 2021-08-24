@@ -1,59 +1,45 @@
 ---
-title: 24. How to Read a Book (II)
-subtitle: Coming to terms with an author to understand their arguments
-description: A review and summary of Adler's How to Read a Book, diving into analytical reading
+title: 25. The Alphabet's Story
+subtitle: From logograms to an alphabet
+description: A brief history of the alphabet and the different writing systems used by languages
 ---
 
-Reading a book is a skill that everyone can learn. __In this post, we'll go through the second stage of reading<sup>1</sup>: *analytical reading.*__ It builds on the first stage: intelligent skimming and superficial reading, which I covered in the previous [post](https://taariqismail.com/2021-07-07-how-to-read-a-book-i/).
+Ever wondered why alphabets are so similar? Evidence suggests the alphabet was only invented once so all alphabets can be traced to a single source. To understand its history, we also have to understand __other types of writing systems.__ Alphabets are just one type - many other writing systems exist and are still used by living languages.
 
-Few books are worth reading, and they’re bound to be challenging. As the authors of [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.co.uk/How-Read-Book-Intelligent-Touchstone/dp/0671212095) say:
 
-> If a book is easy and fits nicely into all your language conventions and thought forms, then you probably will not grow much from reading it. It may be entertaining, but not enlarging to your understanding. It’s the hard books that count. Raking is easy, but all you get is leaves; digging is hard, but you might find diamonds.
+For example, Chinese languages use a logographic system and Japanese uses a syllabic system (based on logograms). Before getting to alphabetic systems, it’s worth going through these other types.
 
-__Reading tough books is an active exercise__ - you have to be engaged, and it's not something you do whilst on your pillow just before bed (although reading challenging books is a great way of drifting off to sleep).
+## Pictorial systems
+### Pictograms
+This is the simplest form of picture writing, where pictures represent words or concepts. __The meaning of a pictogram is immediately evident.__ For example, the sun would be represented by a circle. Linguists argue that pictograms can only express part of what can be communicated by a language (*compare that with English, where everything in the language can be articulated in writing).*
 
-After the [first stage](https://taariqismail.com/2021-07-07-how-to-read-a-book-i/) of reading, you should know the structure of the book and its conclusions. __Analytical reading helps you dive deeper into the arguments that lead to the conclusions.__
-
------
-
-## How to read analytically
-### 1. Understand the problem the author wants to solve
-This is the most important step in analytical reading: you should articulate the problem the author is trying to solve. Without this step, reading can often just be a mental exercise.
-
-### 2. Come to terms with the author
-The author will use many words, but not all of them will be important. It’s relatively easy to identify the important ones - the author will often explicitly define them, or contrast the way they’ve used them to how other authors have. The important words are also likely to be the ones you’ll have trouble with - you might need to look the second or third meanings in the dictionary.
-
-### 3. Find the key propositions
-A proposition is a sentence the author uses to make a point - it should be backed up by evidence or reasoning. If it isn't, it's simply the author's opinion and should be treated that way.
-
-### 4. Construct the author's argument
-Sometimes the author explicitly states how their propositions lead to arguments, but most of the time we have to construct the argument using propositions from different paragraphs. The propositions should build on each other, and shouldn’t be contradictory. __Once you're convinced that you understand an argument, you should restate it in your own words. Writing it down is best: reading and writing go hand in hand.__
-
-### 5. So what?
-As you're digesting the arguments, you should be asking __'so what?'__ i.e. why is this relevant? What does it mean? Does it solve the problems the author framed?
-
-### 6. Criticizing a book
-__Reading is a conversation between you and the author:__ you ask the book questions, rather than simply receiving information. The first rule of criticism is only to do so after you've finished and understood the book - it's similar to any form of debate, where you should first hear out the other person.
-
-Your reasons for criticising the author shouldn’t be vague (e.g. ‘it doesn’t sit right with me’), but should fall into one of these categories:
-1. __The author is misinformed or not informed__ - when the author has stated something that isn’t true or missed some facts
-2. __The author’s reasoning is flawed__ - when the author has succumbed to a logical fallacy
-3. __The author's analysis is incomplete__ - this is when the author hasn’t solved the problem they set out to
+### Logograms
+These are similar to pictograms, but the __pictures have lost their literal meaning__ (e.g. a circle might mean unity). People who understand different branches of a logographic language (e.g. Chinese languages) __may pronounce a logogram completely differently.__ They can only communicate through writing, and not orally since they pronounce logograms differently. An example we’re all familiar with is numbers: both a Frenchman and an Englishman understand what’s meant by the symbol ‘4’, even though one pronounces it *'quatre'* and the other *'four'.*
 
 -----
 
-## How to get the most out of reading
-You need a __pencil in your hand at all times to read actively__. Whilst reading you should:
-- Underline key terms and propositions
-- Number the author's propositions to keep track of them
-- Write notes in margins
-- Draw diagrams, especially of hierarchies
-- Reference other parts of the book where the author’s made similar points, or contradictory
+## Phonetic systems
+Phonetic systems are where symbols represent a sound of the language.
 
-You can do the same thing on a Kindle by highlighting and adding comments. I prefer the manual method because it’s more versatile: you can sketch diagrams, draw arrows connecting different parts of the text, and easily see all your annotations.
+### Syllabic
+A syllabary is a set of symbols that represent syllables, which make up words. Japanese is a syllabic language: words are made of open monosyllables, e.g. YO-KO-HA-MA. __This works for Japanese because the number of possible syllables is limited by the number of consonant and vowel combinations.__ Such a system wouldn’t suit English. Each of these words would need a separate symbol: ‘bag’, ‘beg’, ‘big’, ‘bog’, ‘bug’, ‘bad’, ‘bed’, ‘bid’, ‘bod’, ‘bud’, ‘bead’, ‘bide’, ‘bode’, etc. __If a syllabary were used for English we'd need 10,000 separate symbols to account for the different syllables.__
 
-## What's next?
-There is technically another stage after analytical reading: synoptical reading. This is where you read several books on the same topic and bring the different authors to your own terms to compare the merits of their arguments. “Knowing that more than one book is relevant to a particular question is the first requirement in any project of synoptical reading.”
+### The coming of the alphabet
+Modern alphabets are all derived from the same source (see ABCD Family Tree diagram below). We can trace the transformation of around 22 Egyptian logograms into the Phoenician alphabet around 1000BCE - 1500BCE. This __early alphabet only had consonants__ so wasn’t an alphabet in the strict sense<sup>1</sup>.
+
+An alphabet with only consonants worked because Semitic languages are made up of words that have three consonants. ‘Vowels’ are pronounced in between these consonants but aren’t written down - e.g. the Arabic word for milk, laban, is written with three letters in the Arabic script (لبن).
+
+*Interesting side note: Arabs who are learning English will often write words without any vowels at all. Something like this: vwls, intrstng, chldrn*
+
+### Greek additions
+Greek is a language rich in vowels. __To adapt the Phoenician alphabet to their own use, the Greeks had to introduce vowels.__ They did this by taking Phoenician letters that they had no use for (*ālep, ayin*) and turned them into vowels, as well as creating additional letters for other vowels. __The word ‘alphabet’ actually comes from the first two letters of the Greek alphabet - alpha and beta.__
+
+This then evolved into the Latin alphabet (through the Etruscan one) that I’m using to write this post. This infographic from [Ryan Starkey](https://starkeycomics.com/home/) nicely shows the evolution of different scripts from Egyptian logograms.
+
+### The role of scribes
+There are many variations of letters amongst different languages, even within the Latin alphabet. Why do some alphabets include additional letters e.g. ø, ü? Scribes introduced them when they came across a sound that doesn’t fit the range of letters they had. Scribes may also create random combinations of existing symbols to represent other sounds - e.g. TH, or SH.
+
+English has Latin, Greek, and Teutonic origins. __By paying attention to the letters a word contains, you can tell its origin and guess its meaning:__ if the word contains SH (so spelt) it’s of Teutonic origin, but if it contains the SH sound spelt as TI (e.g. nation) then it’s of French-Latin origin. Another example is GH (when silent in English, e.g. in light) - these words have Teutonic origins2, and when you come across a German word you can guess its meaning. E.g. German for light is *licht*, night is *nacht*, right is *racht*. __Note the change in sound from a silent GH to a ‘k’.__ More about these patterns in the coming posts - this was just a taster.
 
 ### Sign up to my blog here
 <div
@@ -62,5 +48,5 @@ There is technically another stage after analytical reading: synoptical reading.
 
 </div>
 -----
-1. In the authors’ book, there are four stages of reading: intelligent skimming; superficial reading; analytical reading; syntopical reading. I’ve condensed them.
+1. In this post, I haven’t differentiated between true alphabets, abjads, and abugidas. True alphabets contain both consonants and vowels. Abjads only have consonants. Abugidas also only have consonants but the shape of the letters changes slightly based on the vowel used.
 

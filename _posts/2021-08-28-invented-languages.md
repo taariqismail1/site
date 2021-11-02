@@ -10,9 +10,12 @@ To make languages easy to learn and speak, __linguists have invented auxiliary l
 
 ## Esperanto
 
-Esperanto is the most successful auxiliary language, and it’s __the only one that has native speakers__ (i.e. people born into Esperanto households). It was conceived in 1887 by L.L. Zamenhof, a Polish ophthalmologist, to *__‘reduce the time and labour it takes to learn foreign languages, as well as to act as the world's second language.’__* Proponents say you can learn it in just a matter of months<sup>3</sup>. Its grammar is very regular - you can make new words by adding prefixes and suffixes onto a root<sup>4</sup>. Here are some examples.
+Esperanto is the most successful auxiliary language, and it’s __the only one that has native speakers__ (i.e. people born into Esperanto households). It was conceived in 1887 by L.L. Zamenhof, a Polish ophthalmologist, to *__‘reduce the time and labour it takes to learn foreign languages, as well as to act as the world's second language.’__* Proponents say you can learn it in just a matter of months<sup>3</sup>. Its grammar is very regular - you can make new words by adding prefixes and suffixes onto a root<sup>4</sup>. Here are some examples<sup>5</sup>.
 
-I decided that Bollywood films were for those willing to be fooled. __How could a normal person appreciate Bollywood’s implausibility?__ I’d later learn more about its unique storytelling tradition and I’d come to appreciate Bollywood through a new lens.
+![Esperanto example]({{ site.baseurl }}/assets/img/posts/28a.PNG)
+You can use these to make compound words
+![Esperanto example]({{ site.baseurl }}/assets/img/posts/28b.PNG)
+
 
 This allows someone learning to make up new words, based on words they already know. Its vocabulary is primarily Latin (about 75%), with the remainder from Greek, English, and German.
 
@@ -36,3 +39,4 @@ __Modernity's press for standardisation of language loses depth, intricacy, and 
 2. Actually, they’re usually borrowed from other languages
 3. It’s even on Duolingo
 4. Other natural languages work in a similar way. Arabic is an example I’m familiar with
+5. https://unravellingmag.com/articles/creating-new-words-in-esperanto/

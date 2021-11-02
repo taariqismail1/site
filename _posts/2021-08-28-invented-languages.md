@@ -1,5 +1,5 @@
 ---
-title: 27. Invented languages
+title: 28. Invented languages
 subtitle: Creating more problems than they solve
 description: An overview of auxiliary languages, including Esperanto
 ---
@@ -13,6 +13,7 @@ To make languages easy to learn and speak, __linguists have invented auxiliary l
 Esperanto is the most successful auxiliary language, and it’s __the only one that has native speakers__ (i.e. people born into Esperanto households). It was conceived in 1887 by L.L. Zamenhof, a Polish ophthalmologist, to *__‘reduce the time and labour it takes to learn foreign languages, as well as to act as the world's second language.’__* Proponents say you can learn it in just a matter of months<sup>3</sup>. Its grammar is very regular - you can make new words by adding prefixes and suffixes onto a root<sup>4</sup>. Here are some examples<sup>5</sup>.
 
 ![Esperanto example]({{ site.baseurl }}/assets/img/posts/28a.PNG)
+
 You can use these to make compound words
 ![Esperanto example]({{ site.baseurl }}/assets/img/posts/28b.PNG)
 
@@ -39,4 +40,4 @@ __Modernity's press for standardisation of language loses depth, intricacy, and 
 2. Actually, they’re usually borrowed from other languages
 3. It’s even on Duolingo
 4. Other natural languages work in a similar way. Arabic is an example I’m familiar with
-5. https://unravellingmag.com/articles/creating-new-words-in-esperanto/
+5. [By Daniel Adler](https://unravellingmag.com/articles/creating-new-words-in-esperanto/)

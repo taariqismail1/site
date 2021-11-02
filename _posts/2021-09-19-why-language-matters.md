@@ -8,38 +8,30 @@ description: Experiencing the world at the deepest level through rich language
 
 Language has always been important to communicate, but it serves a deeper purpose. It allows us to make sense of the world by categorising things.
 
-“Language is declining” - we hear people (especially academics) complaining about this all the time. Some quotes:
+*“Language is declining”* - we hear people (especially academics) complaining about this all the time. Some quotes:
 
-The vocabularies of the majority of high-school pupils are amazingly small. I always try to use simple English, and yet I have talked to classes when quite a minority of the pupils did not comprehend more than half of what I said
+>*The vocabularies of the majority of high-school pupils are amazingly small. I always try to use simple English, and yet I have talked to classes when quite a minority of the pupils did not comprehend more than half of what I said*
 
-From every college in the country goes up the cry, "Our freshmen can't spell, can't punctuate." Every high school is in disrepair because its pupils are so ignorant of the merest rudiments
+>*From every college in the country goes up the cry, "Our freshmen can't spell, can't punctuate." Every high school is in disrepair because its pupils are so ignorant of the merest rudiments*
 
-If we think language is deteriorating, we should remember this isn’t new. These quotes were actually published more than a hundred years ago (M. W. Smith, 1889 and C. H. Ward, 19171).
+If we think language is deteriorating, we should remember __this isn’t new.__ These quotes were actually published more than a hundred years ago (M. W. Smith, 1889 and C. H. Ward, 1917<sup>1</sup>).
 
-This time is different, right? With TV and social media we’ve moved to a visual form of communication, where the little language that’s used is highly simplified. Every generation has thought that language is declining, so are we falling into an exceptionalism trap?
+This time is different, right? With TV and social media we’ve moved to a visual form of communication, where the little language that’s used is highly simplified. Every generation has thought that language is declining, so __are we falling into an exceptionalism trap?__
 
+## Depth of language
+Languages don’t decline, they just change. In any case, maintaining rich language is important. __The depth of our language determines the depth at which we can interact with the world.__ When we look at something (e.g. a great piece of art) and if we don't have the vocabulary to describe what we're seeing, then we can't experience it at the deepest level<sup>2</sup>.
 
+## Using complicated language
+__There's a bit of a problem:__ if we start using complicated language when speaking and writing, people won’t understand what we mean. __Using the 'right' word is sometimes counterproductive.__ How do we resolve the tension between nurturing depth of language and making sure we're understood?
 
-## Esperanto
+We often mask our understanding of a topic by using complicated terminology. It sounds right and we hear the experts use these phrases, so we convince ourselves that it's the right thing to do. __People who truly understand a topic usually don't do this if it’s avoidable.__ They think in complicated terminology, but they're able to communicate simply. [Richard Feynman is a really good example.](https://youtu.be/ITpDrdtGAmo)
 
-Esperanto is the most successful auxiliary language, and it’s __the only one that has native speakers__ (i.e. people born into Esperanto households). It was conceived in 1887 by L.L. Zamenhof, a Polish ophthalmologist, to *__‘reduce the time and labour it takes to learn foreign languages, as well as to act as the world's second language.’__* Proponents say you can learn it in just a matter of months<sup>3</sup>. Its grammar is very regular - you can make new words by adding prefixes and suffixes onto a root<sup>4</sup>. Here are some examples<sup>5</sup>.
+I think the solution is to be able to __experience the world at the deepest level in your own mind, but at the same time describe that in the simplest language when communicating.__
 
-![Esperanto example]({{ site.baseurl }}/assets/img/posts/28a.PNG)
+## Resolving the tension
+The tension isn’t really resolved. If everyone is communicating in relatively simple language, __how do we then build up a wide and deep vocabulary to experience? The solution is to read, and in particular, to read good literature<sup>3</sup>.__
 
-You can use these to make compound words
-![Esperanto example]({{ site.baseurl }}/assets/img/posts/28b.PNG)
-
-
-This allows someone learning to make up new words, based on words they already know. Its vocabulary is primarily Latin (about 75%), with the remainder from Greek, English, and German.
-
-__Esperanto wasn't the first auxiliary language, nor the last.__ The most recent one, Globasa, is only a couple of years old. Other significant auxiliary languages include Volapuk, Ido, Novia, and Interlingua.
-
-## What’s lost?
-Whilst I agree with the diagnosis that languages are irregular, irrational, and uneconomical, __I'm not a pro-auxiliary language. Here's why: language shapes our thought.__ The early auxiliary languages were made using vocabulary from European languages, and even though more recent ones sample vocabulary from a wider range of languages, they naturally don’t capture all the concepts important in each language.
-
-__Conflicts stem from deep-rooted misunderstandings, and they’re often based on cultural and linguistic nuances.__ I’m uneasy about the humanitarian mission: when one group of people doesn’t understand why a certain thing is so important for another group, it’s usually because they don’t have the vocabulary in their own language to conceptualise the issue.
-
-__Modernity's press for standardisation of language loses depth, intricacy, and meaning for so many people.__ I think they won’t be part of the solution leading to world peace. Having said that, learning an auxiliary language can be a good use of time - you can learn a lot about how languages work and [foster strong communities based on these shared interests](https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham).
+Reading does more than just picking up some new vocabulary. It satisfies a hunger. It takes you to places you could never go before. Adapting [Hamza Yusuf’s](https://en.wikipedia.org/wiki/Hamza_Yusuf) words, we need to read the *great books that can edify our souls and enrich our impoverished states*<sup>4</sup>.
 
 ### Sign up to my blog here
 <div
@@ -48,8 +40,7 @@ __Modernity's press for standardisation of language loses depth, intricacy, and 
 
 </div>
 -----
-1. Frederick Bodmer, The Loom of Language
-2. Actually, they’re usually borrowed from other languages
-3. It’s even on Duolingo
-4. Other natural languages work in a similar way. Arabic is an example I’m familiar with
-5. [By Daniel Adler](https://unravellingmag.com/articles/creating-new-words-in-esperanto/)
+1. [Princeton](https://www.princeton.edu/~browning/decline.html)
+2. I’d recommend this [Renovatio](https://renovatio.zaytuna.edu/media/the-decline-of-language-and-the-rise-of-nothing) podcast on “The Decline of Language and the Rise of Nothing”
+3. Reading technical books can also be enriching, but it’s usually limited to one domain
+4. [The Liberal Arts in an Illiberal Age](https://renovatio.zaytuna.edu/article/the-liberal-arts-in-an-illiberal-age)

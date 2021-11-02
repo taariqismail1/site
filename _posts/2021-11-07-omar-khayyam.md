@@ -14,9 +14,9 @@ Some reflections on a couple of the poems:
 
 ## 1. The moving finger writes
 
-*The moving finger writes;
-and, having writ, moves on:
-nor all thy piety nor wit shall lure it back to cancel half a line,
+*The moving finger writes;\
+and, having writ, moves on:\
+nor all thy piety nor wit shall lure it back to cancel half a line,\
 nor all thy tears wash out a word of it*
 
 This poem brings to life the phrase *'what's done is done.'* Once something happens, anything we have at our disposal - whether it’s knowledge or prayers - cannot change the tiniest detail of the past. There's no point crying either - tears, with all their ability to wash ink away, can’t change a single thing about the past.

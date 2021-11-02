@@ -25,9 +25,9 @@ This poem brings to life the phrase *'what's done is done.'* Once something happ
 
 ## 2. Tis all a Chequer-board of nights and days
 
-*Tis all a Chequer-board of nights and days
-Where Destiny with men for Pieces plays:
-Hither and thither moves, and mates, and slays,
+*Tis all a Chequer-board of nights and days\
+Where Destiny with men for Pieces plays:\
+Hither and thither moves, and mates, and slays,\
 And one by one back in the closet lays*
 
 I like the imagery of the chequer-board of night and days, with its black and white tiles contrasted against each other. It reduces the complexity of life to the alternation of days and nights, in which we move, and mate, and slay (again, keeping the imagery of chess). The reality is that our ultimate destination is the closet - a place where all pieces must return when the game is over.

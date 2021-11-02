@@ -4,37 +4,26 @@ subtitle: Creating more problems than they solve
 description: An overview of auxiliary languages, including Esperanto
 ---
 
-I was often forced to watch Bollywood films at the cinema as a child. They were usually special screenings of a film that had just come out - I still remember the vibrancy of these occasions.
+__Languages are hard to learn.__ You can use some of the tricks outlined in the previous post, but there’s no magic bullet when it comes to learning them - they're *‘irrational, irregular, and uneconomical’*<sup>1</sup>. For example, in English we say *three* dogs. __There's no need for dogs to have an 's' at the end__. Plurality is already implied by *three*, so the *‘s’* redundant.
 
-__I hated them. I hated Bollywood as a whole - the movies were long and the scenes were far-fetched, to say the least.__ How can the hero defy death on so many occasions? Why does everyone burst into song randomly and where do the background dancers come from? How (and why?) does the entire cast move from a busy market in India to the Swiss Alps within a blink of the eye?
+To make languages easy to learn and speak, __linguists have invented auxiliary languages__ - i.e. languages where the grammar and vocabulary are completely<sup>2</sup> made up. These auxiliary languages remove some of the irrationality and irregularity that have crept into natural languages over the years. __They also have a humanitarian mission__ - a language through which all citizens of the world can communicate. The hope is that a common understanding will reduce conflict and warmongering.
+
+## Esperanto
+
+Esperanto is the most successful auxiliary language, and it’s __the only one that has native speakers__ (i.e. people born into Esperanto households). It was conceived in 1887 by L.L. Zamenhof, a Polish ophthalmologist, to *__‘reduce the time and labour it takes to learn foreign languages, as well as to act as the world's second language.’__* Proponents say you can learn it in just a matter of months<sup>3</sup>. Its grammar is very regular - you can make new words by adding prefixes and suffixes onto a root<sup>4</sup>. Here are some examples.
 
 I decided that Bollywood films were for those willing to be fooled. __How could a normal person appreciate Bollywood’s implausibility?__ I’d later learn more about its unique storytelling tradition and I’d come to appreciate Bollywood through a new lens.
 
-## Two narrative traditions
-When you growing up watching Western films you're used to a certain type of plot and cinematography - but this is only one type of cinema. __Why are Bollywood films so different from Western cinema?__ To appreciate the difference, you have to understand the history of storytelling and the performing arts in the two traditions.
+This allows someone learning to make up new words, based on words they already know. Its vocabulary is primarily Latin (about 75%), with the remainder from Greek, English, and German.
 
-There are many differences, but I wanted to pick up on one in particular. In Western cinema, the audience accepts that what they see in from of them is a reflection of reality<sup>1</sup>. They can relate to it. __A crucial difference with Indian theatre is that reality is suspended - the laws of physics need not apply.__ The audience accepts that what they see on stage is of a different reality, and are willing to turn a blind eye for the sake of entertainment.
+__Esperanto wasn't the first auxiliary language, nor the last.__ The most recent one, Globasa, is only a couple of years old. Other significant auxiliary languages include Volapuk, Ido, Novia, and Interlingua.
 
-## The playbook
-Bollywood traces its roots back to the performing arts of the Indian subcontinent, which in turn have their __roots in the *Nāṭyaśāstra*__. Written around 2,000 years ago, it's a treatise on the performing arts – theatre, song, and dance. The Nāṭyaśāstra is a practical book and focuses on aspects such as stage construction, make-up application, prop building, body movement, and facial expressions.
+## What’s lost?
+Whilst I agree with the diagnosis that languages are irregular, irrational, and uneconomical, __I'm not a pro-auxiliary language. Here's why: language shapes our thought.__ The early auxiliary languages were made using vocabulary from European languages, and even though more recent ones sample vocabulary from a wider range of languages, they naturally don’t capture all the concepts important in each language.
 
-The Nāṭyaśāstra contains 36 chapters. One important chapter deals with __the range of emotions the audience must experience during a performance.__
+__Conflicts stem from deep-rooted misunderstandings, and they’re often based on cultural and linguistic nuances.__ I’m uneasy about the humanitarian mission: when one group of people doesn’t understand why a certain thing is so important for another group, it’s usually because they don’t have the vocabulary in their own language to conceptualise the issue.
 
-### Rasas
-Rasas are emotions that the audience should feel whilst watching a performance. The *Nāṭyaśāstra* lists eight *rasas*:
-1. Love
-2. Pity
-3. Anger
-4. Disgust
-5. Heroism
-6. Awe
-7. Terror
-8. Humour
-
-__A complete performance must include all *rasas*__ - the audience should feel love, as well as anger, but there should only be one dominant rasa. This is one of the major differentiators between Bollywood and other types of cinema. __*Rasas* are pivotal to Bollywood films and their structure.__ They drive the overall plot, carve out subplots, and essentially create the characters of a film. Bollywood films are much longer than Hollywood ones. One reason is that there must be enough time for subplots to sustain, which will likely contain different *rasas*.
-
-## Viewing Bollywood through a new lens
-__Learning more about Bollywood and the differences between it and the Western narrative tradition I'm most familiar with has helped me appreciate good Bollywood films more.__ I’m going to note that not all Bollywood films follow this type of storytelling structure - you have to find the good ones. Although I don't watch as much Bollywood as I'd like to, the small sample I've seen has been __trending away from this type of classical storytelling towards the Western approach to cinema.__
+__Modernity's press for standardisation of language loses depth, intricacy, and meaning for so many people.__ I think they won’t be part of the solution leading to world peace. Having said that, learning an auxiliary language can be a good use of time - you can learn a lot about how languages work and [foster strong communities based on these shared interests](https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham).
 
 ### Sign up to my blog here
 <div
@@ -43,4 +32,7 @@ __Learning more about Bollywood and the differences between it and the Western n
 
 </div>
 -----
-1. It depends on the genre of film
+1. Frederick Bodmer, The Loom of Language
+2. Actually, they’re usually borrowed from other languages
+3. It’s even on Duolingo
+4. Other natural languages work in a similar way. Arabic is an example I’m familiar with

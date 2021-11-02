@@ -4,42 +4,44 @@ subtitle: Exploring the Rubaiyat
 description: Some poems from Edward FitzGerald's translation of Omar Khayyam's rubaiyat, the moving finger writes
 ---
 
-This week’s post is something different - I’m sharing some of the earliest poetry I remember coming across: The Rubaiyat of Omar Khayyam. It’s a collection of four line poems (rubai, or quatrain) translated by Edward FitzGerald in 1859. His translation is based on the poems of Omar Khayyam, the 12th century Persian polymath.
+This week’s post is something different - I’m sharing some of the earliest poetry I remember coming across: *__The Rubaiyat of Omar Khayyam*. It’s a collection of four line poems__ (*rubai*, or quatrain) translated by Edward FitzGerald in 1859. His translation is based on the poems of Omar Khayyam, the 12th century Persian polymath.
 
-A rubai (or quatrain) is a poem made up of four lines. There are two patterns: either the first, second and fourth lines all rhyme (see first example below), or all lines rhyme (see second example). Edward FitzGerald, with his artistic license, maintained this rhythm in translation.
+A *rubai* (or quatrain) is a poem made up of four lines. There are two patterns: either the first, second and fourth lines all rhyme (see first example below), or all lines rhyme (see second example). Edward FitzGerald, with his artistic license, maintained this rhythm in translation.
+
 -----
 
-## Build a great product
-__The first step to effective marketing is to make sure the product is good.__ There is no shortcut here. Marketing can only have a limited impact when the product isn't great. Note: 'products' are more than traditional digital or physical products - a product could be a book you're writing or the event you're convincing people to go to.
+Some reflections on a couple of the poems:
 
-Product-market fit (PMF) is the foundation of a successful growth hacking process. You have to test what works and then design a product that fits the market's needs. The book outlines the keys to getting the PMF right as quickly as possible: __build a prototype. Then test it, modify it, and test it again.__ This approach can take many rounds of iteration before you find the best product or service to offer.
+## 1. The moving finger writes
 
-## Launch iteratively
-A traditional product launch looks like this: a lot of money invested in building the perfect product, followed by huge advertising campaign (or a grand launch party).
+*The moving finger writes;
+and, having writ, moves on:
+nor all thy piety nor wit shall lure it back to cancel half a line,
+nor all thy tears wash out a word of it*
 
-Growth hacking rejects this type of product development (as mentioned above). __It also suggests a different type of advertising in the form of smaller, iterative launches. The key with growth hacking is to target the right people, not all the people.__ Instead of going after ‘everyone,’ growth hackers like to target early adopters, people who are really passionate. You get feedback from these users, who help develop the product. When these kinds of customers become loyal fans, they’re likely to tell their friends, helping your brand grow organically.
+This poem brings to life the phrase *'what's done is done.'* Once something happens, anything we have at our disposal - whether it’s knowledge or prayers - cannot change the tiniest detail of the past. There's no point crying either - tears, with all their ability to wash ink away, can’t change a single thing about the past.
 
-Here are a few examples of product launches, taken directly from the book:
-1. You can create the aura of exclusivity with an invite-only feature (as Mailbox did).
-2. You can create hundreds of fake profiles to make your service look more popular and active than it actually is—nothing draws a crowd like a crowd (as Reddit did in its early days).
-3. You can target a single service or platform and cater to it exclusively—essentially piggybacking off or even stealing someone else’s growth (as PayPal did with eBay).
-4. You can launch for just a small group of people, own that market, and then move from host to host until your product spreads (which is what Facebook did by starting in colleges—first at Harvard—before taking on the rest of the population).
-5. You can host cool events and drive your first users through the system manually (as Myspace, Yelp, and Udemy all did).
-6. You can bring on influential advisors and investors for their valuable audience and fame rather than their money (as About.me and Trippy did—a move that many start-ups have emulated).
+-----
 
-## Going viral
-Going viral is every marketer’s dream. It’s when people share the product with their networks, who do the same, causing exponential growth. It’s not all down to luck, as Ryan Holiday says:
+## 2. Tis all a Chequer-board of nights and days
 
->*Only a specific type of product or business or piece of content will go viral - it not only has to be worth spreading, it has to provoke a desire in people to spread it
+*Tis all a Chequer-board of nights and days
+Where Destiny with men for Pieces plays:
+Hither and thither moves, and mates, and slays,
+And one by one back in the closet lays*
 
-The two important elements:
-1. __The product must be worth sharing__ - again, there is no substitute for a poor product
-2. __Sharing must be encouraged.__ E.g. ‘refer a friend’ campaigns. Dropbox’s refer a friend campaign gave users additional free space. The more friends users referred, the better the product became for them
+I like the imagery of the chequer-board of night and days, with its black and white tiles contrasted against each other. It reduces the complexity of life to the alternation of days and nights, in which we move, and mate, and slay (again, keeping the imagery of chess). The reality is that our ultimate destination is the closet - a place where all pieces must return when the game is over.
 
-## Retaining and engaging users
-Once you’re reached a critical mass, there's no point getting additional people through the door if you can't keep them active. __The growth hacker’s preference is engaging dormant users vs attracting potential users.__ This often means going back to the product and tweaking it to ensure that users are getting more value out of it.
+-----
 
->*You’re better off teaching your customers how to use your product, as services like Facebook and Amazon do, to get them to supply more personal information and make them more engaged - than chasing some new person who doesn’t really care
+## The first edition
+Initially, there was __very little traction of FitzGerald's translation:__ 250 copies were printed, and most were sitting around in a bookstore. They were discovered by a poet of the time, Swinburne, who shared it with his friends. The book then went viral, and __became so popular that there were numerous "Omar Khayyam clubs” established in England__ during the late 19th century, where members met to discuss the *Rubaiyat*.
+
+## Some thoughts on authenticity and meaning
+Should this be viewed as a work of FitzGerald, rather than of Khayyam? Experts mention the flexibility FitzGerald allowed himself in translating the work, and many believe he mistook Khayyam’s original mystical themes for religious skepticism.
+
+__Nevertheless, removing the baggage of FitzGerald’s interpretation of Khayyam, the rubaiyat paints vivid pictures and can be used as poetry should: to educate, to inspire, and to nourish the soul.__
+
 
 ### Sign up to my blog here
 <div

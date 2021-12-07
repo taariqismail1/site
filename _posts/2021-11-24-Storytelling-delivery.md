@@ -1,6 +1,6 @@
 ---
 title: 35. Storytelling (II), delivery
-subtitle: Create a time capsule: what to say and how to say it
+subtitle: Create a time capsule. What to say and how to say it
 description: Summary of Matthew Dick's Storyworthy on storytelling. This part focuses on delivery
 ---
 __Any person speaking to a group of people, in any context, has an obligation to be entertaining.__ Storytelling allows you to fulfill this obligation and even more: __it gives you the opportunity to make people smile, laugh, and learn.__

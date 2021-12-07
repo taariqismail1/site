@@ -1,5 +1,5 @@
 ---
-title: 34. Storytelling: some lessons
+title: 34. Storytelling, some lessons
 subtitle: The skill that's never taught
 description: Summary of Matthew Dick's Storyworthy on storytelling
 ---

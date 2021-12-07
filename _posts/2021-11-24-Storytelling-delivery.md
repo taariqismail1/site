@@ -36,6 +36,8 @@ There’s a difference between reciting a story and telling a story. Reciting a 
 ### Control your emotions
 Your story will naturally cover moments in your life that mean a lot to you, and some of them will be emotionally charged. You don’t want to remove the emotion - this helps you connect with your audience. However, you don’t want the emotion to overwhelm you or your story. Make sure you rehearse the emotionally charged parts of your story.
 
+-----
+
 I hope you found this summary of Storyworthy helpful. Storytelling is something I want to learn more about, so please send through more resources. As I mentioned in the previous post, this is a book worth reading cover to cover (a summary won't suffice). In between the ‘theory’ chapters, the author has ‘story breaks’, which really bring the theory to life.
 
 ### Sign up to my blog here

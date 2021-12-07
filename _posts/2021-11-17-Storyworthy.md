@@ -3,6 +3,7 @@ title: 34. Storytelling: some lessons
 subtitle: The skill that's never taught
 description: Summary of Matthew Dick's Storyworthy on storytelling
 ---
+
 Storytelling is the most underrated skill of our time. At any social gathering, no matter how large or small, anyone speaking is constantly fighting for the attention of others. They’re usually fighting with messages, emails, and notifications to keep people engaged. __Storytelling is the most effective way to engage, teach and persuade others.__
 
 To learn more about it, I picked up [*Storyworthy*](https://www.goodreads.com/en/book/show/37786022-storyworthy) by Matthew Dicks - a highly recommended book on storytelling. Here are some notes.

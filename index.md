@@ -11,4 +11,7 @@ I've decided to create a website. Austin Kleon's book [*Show Your Work*](https:/
 I'm curious about many things - languages, economics, strategy and technology are just a few. I work in strategy consulting and have a strong technical background through an engineering degree and work experience in data science.  
 
 # Blog
-I've started writing online to improve my writing and to learn in public. Follow me on <a href="https://taariq.substack.com" target="_blank">Substack</a>. Visit my [Blog page](https://www.taariqismail.com/blog) for a list of posts.
+I've started writing online (roughly weekly) to improve my writing and to learn in public. Follow me on <a href="https://taariq.substack.com" target="_blank">Substack</a>. Visit my [Blog page](https://www.taariqismail.com/blog) for a list of posts.
+
+# Arabic notes
+In the spirit of learning in public, I've started making notes to help me digest new vocab I learn. Here are more details [Arabic notes](https://www.taariqismail.com/arabic).

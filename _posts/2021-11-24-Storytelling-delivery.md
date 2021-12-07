@@ -1,5 +1,5 @@
 ---
-title: 35. Storytelling (II): Delivery
+title: 35. Storytelling (II), delivery
 subtitle: Create a time capsule: what to say and how to say it
 description: Summary of Matthew Dick's Storyworthy on storytelling. This part focuses on delivery
 ---

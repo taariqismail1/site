@@ -18,7 +18,7 @@ The crux of the framework is to quickly __understand whether an email needs acti
 - __Defer.__ Only a small number of emails deserve significant thought or work.
 
 Here’s a flowchart from [Getting Things Done](https://gettingthingsdone.com/).
-<img src="{{ site.baseurl }}/assets/img/posts/37.PNG">
+<img src="{{ site.baseurl }}/assets/img/posts/37.png">
 
 It’s pretty self-explanatory. __The result is that you should only have two folders in your mailbox.__
 

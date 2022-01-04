@@ -3,6 +3,7 @@ title: 36. Exploring the side of the rabbit hole
 subtitle: Web3 and its wonders
 description: An introduction to Web3
 ---
+
 Tim Ferriss [mentioned](https://tim.blog/2021/10/28/chris-dixon-naval-ravikant/) he couldn't sleep for days when we started looking into Web3. I've got no desire for insomnia, but I thought I should probably get a deeper understanding than I currently have.
 
 __Web3 was coined a few years ago1, but it's recently taken as the new word that encompasses the blockchain age:__ terms such as smart contracts, NFT, DAO, and DeFi. Web3 is a new type of internet, so requires a new type of thinking. Here’s a [definition](https://slate.com/technology/2021/11/web3-explained-crypto-nfts-bored-apes.html):

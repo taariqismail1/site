@@ -10,7 +10,7 @@ __Web3 was coined a few years ago1, but it's recently taken as the new word that
 
 > *Web3 refers to a potential new iteration of the internet that runs on public blockchains, the record-keeping technology best known for facilitating cryptocurrency transactions. The appeal of Web3 is that it is decentralized, so that instead of users accessing the internet through services mediated by the likes of Google, Apple, or Facebook, it’s the individuals themselves who own and control pieces of the internet.*
 
-<img src="{{ site.baseurl }}/assets/img/posts/36a.PNG">
+<img src="{{ site.baseurl }}/assets/img/posts/36a.png">
 
 ## What happened to Web1 and Web2?
 - Web1 (early 90s to mid 2000s) was the early internet, where users were primarily consuming information. Websites were static and were essentially digitised offline data (e.g. information lookup). Examples are news and reference sites

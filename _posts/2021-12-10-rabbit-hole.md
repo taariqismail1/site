@@ -3,9 +3,14 @@ title: 36. Exploring the side of the rabbit hole
 subtitle: Web3 and its wonders
 description: An introduction to Web3
 ---
-Tim Ferriss mentioned he couldn't sleep for days when we started looking into Web3. I've got no desire for insomnia, but I thought I should probably get a deeper understanding than I currently have.
+Tim Ferriss [mentioned](https://tim.blog/2021/10/28/chris-dixon-naval-ravikant/) he couldn't sleep for days when we started looking into Web3. I've got no desire for insomnia, but I thought I should probably get a deeper understanding than I currently have.
 
-Web3 was coined a few years ago1, but it's recently taken as the new word that encompasses the blockchain age: terms such as smart contracts, NFT, DAO, and DeFi. Web3 is a new type of internet, so requires a new type of thinking. Here’s a definition:
+__Web3 was coined a few years ago1, but it's recently taken as the new word that encompasses the blockchain age:__ terms such as smart contracts, NFT, DAO, and DeFi. Web3 is a new type of internet, so requires a new type of thinking. Here’s a [definition](https://slate.com/technology/2021/11/web3-explained-crypto-nfts-bored-apes.html):
+
+> *Web3 refers to a potential new iteration of the internet that runs on public blockchains, the record-keeping technology best known for facilitating cryptocurrency transactions. The appeal of Web3 is that it is decentralized, so that instead of users accessing the internet through services mediated by the likes of Google, Apple, or Facebook, it’s the individuals themselves who own and control pieces of the internet.*
+
+
+
 ## Friction
 Friction is hard to define. Generally, it's something that makes life difficult, but we often don’t notice it until it’s removed. Here’s an example of friction; before card and contactless payments, paying for goods was an experience full of friction:
 

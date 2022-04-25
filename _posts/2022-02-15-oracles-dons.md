@@ -4,44 +4,44 @@ subtitle: Making blockchains useful
 description: An introduction Oracles and Decentralised Oracle Networks
 ---
 
-Emails take up a lot of time. According to an [Adobe study](https://business.adobe.com/blog/perspectives/love-email-but-spreading-the-love-other-channels), __the average person spends 3.1 hours on email every single day.__ On top of the sheer time spent, there’s the mental strain of seeing unread emails pile up and the distractions they bring when arriving.
+It’s been some time since I last wrote - I decided to take a few weeks off over the Christmas holidays but inadvertently broke my writing habit. Lesson learnt for next time.
 
-### If only there was an easy way of dealing with emails…
-I’d like to share a system that works well for me. If you’re looking for a new year’s resolution, perhaps consider this one.
+This week I wanted to look into oracles and DONs (Decentralised Oracle Networks).
 
-## The 4D framework
-The crux of the framework is to quickly __understand whether an email needs actioning or not.__ The 4 D’s stand for:
+## Farming and insurance
+If you’re a farmer and want to insure your farm against poor rainfall, you’d normally take our a policy with an insurance provider. If there isn’t sufficient rainfall in a particular year you’d submit a claim. The insurance provider will use its data sources (usually bought from a third party such as AccuWeather) to determine whether your claim is valid based on the level of rainfall. After a long process you’re likely to get some compensation if the data backs your case.
 
-- __Delete.__ Most emails just need to be deleted.
-- __Delegate.__ A good pile of emails belong with someone else. Forward them on.
-- __Do.__ Some emails require yes/ no answers or can be read quickly. If it takes less than 2 mins to reply to/ action, just do it.
-- __Defer.__ Only a small number of emails deserve significant thought or work.
+__How does this work in the Web3 world?__ You take out an insurance policy in the form of a smart contract, which pays compensation based on pre-agreed level of rainfall. A smart contract works in the same way as the traditional insurance example above: you’re compensated if there isn’t sufficient rainfall. The only difference is that there isn’t an insurance company per se: it’s just some code stored on the blockchain.
+## Oracles
+Oracles are intermediaries between blockchains and the outside world. Traditionally, an oracle is a portal through which the gods speak to people. The idea in technology is exactly the same - oracles are bridges between two worlds (i.e. blockchains and the outside world).
 
-Here’s a flowchart from [Getting Things Done](https://gettingthingsdone.com/).
-<img src="{{ site.baseurl }}/assets/img/posts/37.png">
+### Why are they useful?
+Blockchains have few uses if they can’t interact with data from the outside world. __Why not simply connect a data source?__ e.g. if you’re looking for the amount of rainfall in a certain area, can’t you just feed an AccuWeather data source?
 
-It’s pretty self-explanatory. __The result is that you should only have two folders in your mailbox.__
+There are a couple of reasons why this isn’t possible:
 
-- __Action__ (emails you’ve *Deferred*). This is for the emails that require more than 2 minutes of your time. Treat this folder as your to-do list to work through during the day.
-- __Archive.__ This is where all other emails go (i.e. those that you’ve Deleted, Delegated, and Done). The original framework suggests you delete emails that don’t require action. I prefer to just keep them in a separate folder – you never know when you’ll need them
+1. The data source is likely to change, so all the nodes in the blockchain network won’t agree on the data. This is more pronounced when looking at exchange rates, which change at a very high frequency.
+2. Reliance on a single data source is dangerous since there’s no redundancy, and it can easily be manipulated. A key design feature of blockchains is immutability, so mistakes are irreversible.
 
-## When to check emails
-Responding to emails all the time is time-consuming and unproductive. __Excluding any urgent email, only respond to emails in batches__ (e.g. at the end of every hour, or at the end of deep-working sessions).
+Oracles solve the first problem by inputting data onto the blockchain __in the form of a transaction.__ This way if all the nodes of the network agree on the transaction, by definition they’ll agree on its data.
 
-## Putting emails in folders
-Many people put emails into folders and subfolders (e.g. projects, admin, personal). I don’t bother. __It just adds another step to the process and can take a lot of mental energy.__ Instead, whenever you need to find an email, you can just search for it very quickly. Use search queries such as (“From”, “To”, “has attachments larger than 10MB”, “dates”, “subject”).
+To solve #2, you need some more decentralisation:
 
-Even if you have emails categorised into folders, you’ll likely have to search within them for what you’re looking for. So why bother putting things into folders in the first place?
 
-## Whilst we’re on the topic
-Some other thoughts on email that have saved me time and mental energy:
-1. __Greetings__ – early in my career I used to spend a lot of time worrying about how to start emails (e.g. with a ‘Hi X’, or not). I now have a simple rule – the first email I send to anyone will have a greeting, then subsequent ones in the same thread won’t have one.
-2. __Keep it short__ - people like reading shorter emails. Shorter emails usually fall into the ‘Do’ category so you’re likely to get a quicker response. Consider sending separate emails that can be actioned individually by the recipient, rather than one long one.
-3. __Copy the right people (when important)__ - when you’re asking someone to do something, copy their manager on the email. I’ve found this leads to better response rates and saves you the hassle of continually following up.
+## Decentralised Oracle Networks (DONs)
+Oracles suffer from the same problem as any centralised data source. If an oracle is manipulated or is offline for some reason, smart contracts won’t work as intended. The solution is to use a DON, which is a network of oracles, each with independent data feeds (e.g. multiple weather feeds from providers such as AccuWeather, Meteomatics).
 
------
+From Chainlink:
+> A decentralized oracle network is a group of independent blockchain oracles that provide data to a blockchain. Every independent node or oracle in the decentralized oracle network independently retrieves data from an off-chain source and brings it on-chain. The data is then aggregated so the system can come to a deterministic value of truth for that data point.
 
-Try the 4D framework, and let me know if you have any other email frameworks/ tips - I’m sure there are other good ones out there.
+<img src="{{ site.baseurl }}/assets/img/posts/38_1.png">
+
+## The glaring problem
+Web3 is all about decentralisation. Some fields lend themselves better to decentralisation (e.g. exchange rates, which are actually [highly aggregated](https://blog.chain.link/levels-of-data-aggregation-in-chainlink-price-feeds/?_ga=2.14668599.1678150903.1644857004-1876504360.1644512802) before being fed into oracles). In this case aggregated data is taken from multiple (decentralised) sources and a final value is then decided by the DON.
+
+<img src="{{ site.baseurl }}/assets/img/posts/38_2.png">
+
+For many other domains, although there are multiple, trusted data sources feeding the DON, most of these ultimately lie in the hands of centralised, private corporations. Perhaps there isn’t a way around this in the short term, but we’d expect to see more decentralised data sources in the future.
 
 ### Sign up to my blog here
 <div

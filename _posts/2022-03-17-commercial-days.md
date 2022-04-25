@@ -4,45 +4,46 @@ subtitle: Love and money
 description: Love, money, an the environment
 ---
 
-It’s been some time since I last wrote - I decided to take a few weeks off over the Christmas holidays but inadvertently broke my writing habit. Lesson learnt for next time.
+Valentine’s Day, Mother’s Day, Father’s Day. These days, to name a few, occupy an important place in the modern calendar - they give us an opportunity to pay attention to relationships with important people in our lives. Their histories are varied (some more innocent than others) but __regardless of how they came to be, they’re now modern traditions and significant cultural signposts in the year.__
 
-This week I wanted to look into oracles and DONs (Decentralised Oracle Networks).
+## Should love cost money?
+Such days are expressions of love for significant others or parents. I’d like to explore their meanings in the modern world, where the sentiment has shifted from love to commercial activity. __No doubt lovers look forward to Valentine’s day, but so do businesses.__ In fact, some businesses wouldn’t survive if not for these days scattered throughout the year. Businesses need to make money and exploiting an opportunity is fair game, but that sometimes __results in encouraging consumption only for the sake of consumption.__
 
-## Farming and insurance
-If you’re a farmer and want to insure your farm against poor rainfall, you’d normally take our a policy with an insurance provider. If there isn’t sufficient rainfall in a particular year you’d submit a claim. The insurance provider will use its data sources (usually bought from a third party such as AccuWeather) to determine whether your claim is valid based on the level of rainfall. After a long process you’re likely to get some compensation if the data backs your case.
+## The commercial calendar
+I didn’t realise how much even larger businesses need these ‘commercial days’ until I worked on a project for a relatively large business that relies on them. The graph of order volumes looked a bit like this:
+<img src="{{ site.baseurl }}/assets/img/posts/39_1.png">
 
-__How does this work in the Web3 world?__ You take out an insurance policy in the form of a smart contract, which pays compensation based on pre-agreed level of rainfall. A smart contract works in the same way as the traditional insurance example above: you’re compensated if there isn’t sufficient rainfall. The only difference is that there isn’t an insurance company per se: it’s just some code stored on the blockchain.
+Although the spikes only last for a very short period of time, they can’t be ignored. US consumers spent around __24 billion dollars__ on Valentine’s Day this year, and this has been increasing by more than 4% YoY over the last decade.
 
-## Oracles
-Oracles are intermediaries between blockchains and the outside world. Traditionally, an oracle is a portal through which the gods speak to people. The idea in technology is exactly the same - oracles are bridges between two worlds (i.e. blockchains and the outside world).
+<img src="{{ site.baseurl }}/assets/img/posts/39_2.png">
 
-### Why are they useful?
-Blockchains have few uses if they can’t interact with data from the outside world. __Why not simply connect a data source?__ e.g. if you’re looking for the amount of rainfall in a certain area, can’t you just feed an AccuWeather data source?
+Not all of this is bad - going out to a restaurant is a nice break from monotony, and in many cases won’t be additional spend (it likely replaces a restaurant meal around that time of the year). Smaller restaurants legitimately focus on these days as opportunities to even out losses from mid-week lulls.
 
-There are a couple of reasons why this isn’t possible:
+<img src="{{ site.baseurl }}/assets/img/posts/39_2.png">
 
-1. The data source is likely to change, so all the nodes in the blockchain network won’t agree on the data. This is more pronounced when looking at exchange rates, which change at a very high frequency.
-2. Reliance on a single data source is dangerous since there’s no redundancy, and it can easily be manipulated. A key design feature of blockchains is immutability, so mistakes are irreversible.
+## Pressure and entitlement
+The internet and physical spaces are littered with adverts in the run-up to these days. __Adverts build up an expectation that’s usually then fulfilled, creating a feedback loop that creates societal pressure.__ We often don’t realise this fuels the fire of entitlement to gifts, and in the process we litter the environment with small trinkets of appreciation.
 
-Oracles solve the first problem by inputting data onto the blockchain __in the form of a transaction.__ This way if all the nodes of the network agree on the transaction, by definition they’ll agree on its data.
+## Should Xmas be cancelled?
+__If these days have become cultural signposts, can we extend the logic to other holidays?__ Where do we draw the line? Christmas is an obvious example - it’s generally celebrated as a secular holiday by most in the West. Should we treat it any different?
 
-To solve #2, you need some more decentralisation:
+I think it should be treated differently - Christmas is a much older tradition and gift-giving has a religious significance tied to the holiday.
 
+> To Christians, the gifts given at Christmas are symbolic of the tributes made to the baby Jesus by the Three Wise Men after his birth during the story of the Nativity. - [NG](https://www.nationalgeographic.com/culture/article/three-kings-magi-epiphany#:~:text=Their%20gifts%20had%20special%20symbolic,us%20about%20the%20real%20Jesus)
 
-## Decentralised Oracle Networks (DONs)
-Oracles suffer from the same problem as any centralised data source. If an oracle is manipulated or is offline for some reason, smart contracts won’t work as intended. The solution is to use a DON, which is a network of oracles, each with independent data feeds (e.g. multiple weather feeds from providers such as AccuWeather, Meteomatics).
+## Solutions
+It’s a choice to celebrate some days and not others. The days I mentioned above might resonate more with certain people - and that’s great, they’re likely to exchange higher quality gifts that come from a place of meaning.
 
-From Chainlink:
-> A decentralized oracle network is a group of independent blockchain oracles that provide data to a blockchain. Every independent node or oracle in the decentralized oracle network independently retrieves data from an off-chain source and brings it on-chain. The data is then aggregated so the system can come to a deterministic value of truth for that data point.
+__A key part of the solution is to untie unneeded, thoughtless consumption from these days.__ Sometimes buying a cheap gift is the easy way out, but there are many other things we can do that show appreciation for loved ones if choosing to celebrate these days:
 
-<img src="{{ site.baseurl }}/assets/img/posts/38_1.png">
+1. Clearing commitments to spend quality and quantity time with loved ones
+2. Creating memories - again, these don’t need to be tied to thoughtless consumption
+3. Giving thoughtful gifts, rather than single-use trinkets
 
-## The glaring problem
-Web3 is all about decentralisation. Some fields lend themselves better to decentralisation (e.g. exchange rates, which are actually [highly aggregated](https://blog.chain.link/levels-of-data-aggregation-in-chainlink-price-feeds/?_ga=2.14668599.1678150903.1644857004-1876504360.1644512802) before being fed into oracles). In this case aggregated data is taken from multiple (decentralised) sources and a final value is then decided by the DON.
+__I’m not against giving gifts, but they should be thoughtful and given from a place of love, not obligation.__ Gift-giving is an important part of many traditions, as we saw with Christianity. Similarly, my own tradition encourages people to exchange gifts. A famous hadith reads:
 
-<img src="{{ site.baseurl }}/assets/img/posts/38_2.png">
+>*“Exchange gifts and you will love one another.”*
 
-For many other domains, although there are multiple, trusted data sources feeding the DON, most of these ultimately lie in the hands of centralised, private corporations. Perhaps there isn’t a way around this in the short term, but we’d expect to see more decentralised data sources in the future.
 
 ### Sign up to my blog here
 <div

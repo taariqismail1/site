@@ -12,6 +12,7 @@ This week I wanted to look into oracles and DONs (Decentralised Oracle Networks)
 If you’re a farmer and want to insure your farm against poor rainfall, you’d normally take our a policy with an insurance provider. If there isn’t sufficient rainfall in a particular year you’d submit a claim. The insurance provider will use its data sources (usually bought from a third party such as AccuWeather) to determine whether your claim is valid based on the level of rainfall. After a long process you’re likely to get some compensation if the data backs your case.
 
 __How does this work in the Web3 world?__ You take out an insurance policy in the form of a smart contract, which pays compensation based on pre-agreed level of rainfall. A smart contract works in the same way as the traditional insurance example above: you’re compensated if there isn’t sufficient rainfall. The only difference is that there isn’t an insurance company per se: it’s just some code stored on the blockchain.
+
 ## Oracles
 Oracles are intermediaries between blockchains and the outside world. Traditionally, an oracle is a portal through which the gods speak to people. The idea in technology is exactly the same - oracles are bridges between two worlds (i.e. blockchains and the outside world).
 

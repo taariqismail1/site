@@ -19,8 +19,6 @@ Although the spikes only last for a very short period of time, they can’t be i
 
 Not all of this is bad - going out to a restaurant is a nice break from monotony, and in many cases won’t be additional spend (it likely replaces a restaurant meal around that time of the year). Smaller restaurants legitimately focus on these days as opportunities to even out losses from mid-week lulls.
 
-<img src="{{ site.baseurl }}/assets/img/posts/39_2.png">
-
 ## Pressure and entitlement
 The internet and physical spaces are littered with adverts in the run-up to these days. __Adverts build up an expectation that’s usually then fulfilled, creating a feedback loop that creates societal pressure.__ We often don’t realise this fuels the fire of entitlement to gifts, and in the process we litter the environment with small trinkets of appreciation.
 
